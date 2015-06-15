@@ -3,7 +3,7 @@ THEME?=study
 T=build/triangles/triangle
 F=build/faces/face
 
-all: patron
+all: patron map
 
 build/triangles:
 	mkdir -p build/triangles
@@ -34,6 +34,14 @@ $F%.png: triangles $F%.svg
 	inkscape -z -e $@ $(word 2,$^)
 
 faces: $F01.png $F02.png $F03.png $F04.png $F05.png $F06.png $F07.png $F08.png $F09.png $F10.png $F11.png $F12.png $F13.png $F14.png $F15.png $F16.png $F17.png $F18.png $F19.png $F20.png $F21.png $F22.png $F23.png $F24.png $F25.png $F26.png $F27.png $F28.png $F29.png $F30.png $F31.png $F32.png $F33.png $F34.png $F35.png $F36.png
+
+build/map.svg:
+	cp templates/map.svg build/
+
+out/map.pdf: build/map.svg
+	inkscape -z -A $@ $^
+
+map: out/map.pdf
 
 clean:
 	rm -rf build
