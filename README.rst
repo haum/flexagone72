@@ -14,12 +14,20 @@ former 72 faces hexagonales différentes.
 Organisation du dépôt
 =====================
 
-theme_XXX: Dossier contenant le thème XXX composé principalement des triangles
-           de base
-templates: Dossier contenant les outils pour créer les fichiers de sortie
-build: Dossier temporaire pour la construction des fichiers de sortie
-out: Dossier où sont créés les fichiers de sortie
-Makefile: Le Makefile pour construire le tout !
+theme_XXX:
+Dossier contenant le thème XXX composé principalement des triangles de base
+
+templates:
+Dossier contenant les outils pour créer les fichiers de sortie
+
+build:
+Dossier temporaire pour la construction des fichiers de sortie
+
+out:
+Dossier où sont créés les fichiers de sortie
+
+Makefile:
+Le Makefile pour construire le tout !
 
 Fabriquer
 =========
@@ -27,7 +35,7 @@ Fabriquer
 Pour construire les fichiers de sortie, il faut avoir quel utilitaires de base
 unix (mkdir, cp...) ainsi que le logiciel Inkscape.
 
-> make THEME=XXX
+$ make THEME=XXX
 
 Fichiers de sortie
 ==================
