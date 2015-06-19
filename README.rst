@@ -20,8 +20,9 @@ Dossier contenant le thème XXX composé principalement des triangles de base
 templates:
 Dossier contenant les outils pour créer les fichiers de sortie
 
-build:
-Dossier temporaire pour la construction des fichiers de sortie
+build_XXX:
+Dossier pour stocker les fichiers intermédiaires servant à la construction des
+fichiers de sortie pour le thème XXX
 
 out:
 Dossier où sont créés les fichiers de sortie
