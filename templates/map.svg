@@ -17,8 +17,7 @@
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="map.svg">
   <defs
-     id="defs4">
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.37065211"
-     inkscape:cx="1045.8586"
-     inkscape:cy="250.34461"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="1283.2144"
+     inkscape:cy="605.79134"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="919"
-     inkscape:window-height="1028"
+     inkscape:window-width="1839"
+     inkscape:window-height="1056"
      inkscape:window-x="81"
      inkscape:window-y="24"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
@@ -315,7 +314,7 @@
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
          style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -325,7 +324,7 @@
          sodipodi:type="arc"
          transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -352,7 +351,7 @@
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
          style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -362,7 +361,7 @@
          sodipodi:type="arc"
          transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -389,7 +388,7 @@
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
          style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -399,7 +398,7 @@
          sodipodi:type="arc"
          transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -426,7 +425,7 @@
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
          style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -436,7 +435,7 @@
          sodipodi:type="arc"
          transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -463,7 +462,7 @@
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
          style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -473,7 +472,7 @@
          sodipodi:type="arc"
          transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -500,7 +499,7 @@
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
          style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -510,7 +509,7 @@
          sodipodi:type="arc"
          transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -537,7 +536,7 @@
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
          style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -547,7 +546,7 @@
          sodipodi:type="arc"
          transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -574,7 +573,7 @@
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
          style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -584,7 +583,7 @@
          sodipodi:type="arc"
          transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -611,7 +610,7 @@
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
          style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -621,7 +620,7 @@
          sodipodi:type="arc"
          transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -648,7 +647,7 @@
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
          style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -658,7 +657,7 @@
          sodipodi:type="arc"
          transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -685,7 +684,7 @@
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
          style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -695,7 +694,7 @@
          sodipodi:type="arc"
          transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -722,7 +721,7 @@
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
          style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -732,7 +731,7 @@
          sodipodi:type="arc"
          transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
       <path
-         d="m 1318.1712,352.59955 c 0,11.06986 -8.9739,20.04375 -20.0438,20.04375 -11.0698,0 -20.0437,-8.97389 -20.0437,-20.04375 0,-11.06986 8.9739,-20.04375 20.0437,-20.04375 11.0699,0 20.0438,8.97389 20.0438,20.04375 z"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
          sodipodi:ry="20.043749"
          sodipodi:rx="20.043749"
          sodipodi:cy="352.59955"
@@ -745,583 +744,671 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Flex3"
+     sodipodi:insensitive="true">
+    <path
+       style="color:#d40000;fill:none;stroke:#88aa00;stroke-width:8.53016472;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 459.52955,641.97617 166.33816,-2e-5 85.30179,147.74693 -85.30174,147.74679 -170.60335,-1.1e-4 -85.30161,-147.74683 z"
+       id="path3144"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#d40000;fill:none;stroke:#88aa00;stroke-width:8.53016472;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1483.1216,639.28138 166.3381,-2e-5 85.3018,147.74692 -85.3017,147.74679 -170.6034,-1.1e-4 -85.3016,-147.74683 z"
+       id="path3144-4"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Faces"
      style="display:inline"
      transform="translate(33.023669,662.35621)">
     <image
-       y="-364.64359"
-       x="536.26013"
-       id="image5291"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face01.png"
        xlink:href="faces/face01.png"
+       width="113.736"
+       height="98.523811"
+       id="image5291"
+       x="536.26013"
+       y="-364.64359" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face02.png"
+       xlink:href="faces/face02.png"
+       y="-266.14557"
+       x="536.26019"
+       id="image5348"
        height="98.523811"
        width="113.736" />
     <image
-       width="113.736"
-       height="98.523811"
-       xlink:href="faces/face02.png"
-       id="image5348"
-       x="536.26019"
-       y="-266.14557" />
-    <image
-       style="display:inline"
-       width="113.736"
-       height="98.523811"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face03.png"
        xlink:href="faces/face03.png"
-       id="image5348-3"
+       y="-266.15854"
        x="706.29498"
-       y="-266.15854" />
-    <image
-       style="display:inline"
-       width="113.736"
+       id="image5348-3"
        height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face04.png"
        xlink:href="faces/face04.png"
-       id="image5348-3-6"
+       y="-216.89653"
        x="791.59711"
-       y="-216.89653" />
-    <image
-       style="display:inline"
-       width="113.736"
+       id="image5348-3-6"
        height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face05.png"
        xlink:href="faces/face05.png"
-       id="image5348-3-6-5"
+       y="-69.641968"
        x="535.97601"
-       y="-69.641968" />
-    <image
-       style="display:inline"
-       width="113.736"
+       id="image5348-3-6-5"
        height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face06.png"
        xlink:href="faces/face06.png"
-       id="image5348-3-6-5-2"
+       y="-118.89083"
        x="621.27777"
-       y="-118.89083" />
+       id="image5348-3-6-5-2"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
     <image
-       y="-69.149788"
-       x="876.89874"
-       id="image5530"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face07.png"
        xlink:href="faces/face07.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
        style="display:inline"
        width="113.736"
        height="98.523811"
+       id="image5530"
+       x="876.89874"
+       y="-69.149788" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face08.png"
        xlink:href="faces/face08.png"
-       id="image3871"
+       y="-19.900919"
        x="791.59692"
-       y="-19.900919" />
-    <image
-       style="display:inline"
-       width="113.736"
+       id="image3871"
        height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face09.png"
        xlink:href="faces/face09.png"
-       id="image3871-1"
+       y="127.35381"
        x="876.61444"
-       y="127.35381" />
+       id="image3871-1"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
     <image
-       y="225.85181"
-       x="876.6145"
-       id="image3891"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face10.png"
        xlink:href="faces/face10.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
        style="display:inline"
        width="113.736"
        height="98.523811"
+       id="image3891"
+       x="876.6145"
+       y="225.85181" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face11.png"
        xlink:href="faces/face11.png"
-       id="image3893"
+       y="78.104965"
        x="621.27783"
-       y="78.104965" />
+       id="image3893"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
     <image
-       y="127.35388"
-       x="706.57947"
-       id="image3895"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face12.png"
        xlink:href="faces/face12.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
        style="display:inline"
        width="113.736"
        height="98.523811"
+       id="image3895"
+       x="706.57947"
+       y="127.35388" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face13.png"
        xlink:href="faces/face13.png"
-       id="image3897"
+       y="373.5986"
        x="791.31293"
-       y="373.5986" />
+       id="image3897"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
     <image
-       y="324.34946"
-       x="706.01117"
-       id="image3899"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face14.png"
        xlink:href="faces/face14.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
        style="display:inline"
        width="113.736"
        height="98.523811"
+       id="image3899"
+       x="706.01117"
+       y="324.34946" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face15.png"
        xlink:href="faces/face15.png"
-       id="image3905"
+       y="471.60419"
        x="620.99365"
-       y="471.60419" />
+       id="image3905"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
     <image
-       y="520.85321"
-       x="535.69189"
-       id="image3907"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face16.png"
        xlink:href="faces/face16.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
        style="display:inline"
        width="113.736"
        height="98.523811"
+       id="image3907"
+       x="535.69189"
+       y="520.85321" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face17.png"
        xlink:href="faces/face17.png"
+       y="225.85175"
+       x="535.97607"
        id="image3909"
-       x="535.97607"
-       y="225.85175" />
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
     <image
-       y="324.34946"
-       x="535.97607"
-       id="image3911"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face18.png"
        xlink:href="faces/face18.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
        style="display:inline"
        width="113.736"
        height="98.523811"
+       id="image3911"
+       x="535.97607"
+       y="324.34946" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face19.png"
        xlink:href="faces/face19.png"
-       id="image3913"
+       y="520.85327"
        x="365.08862"
-       y="520.85327" />
-    <image
-       y="422.35532"
-       x="365.08865"
-       id="image3915"
-       xlink:href="faces/face20.png"
+       id="image3913"
        height="98.523811"
        width="113.736"
        style="display:inline" />
     <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face20.png"
+       xlink:href="faces/face20.png"
        style="display:inline"
        width="113.736"
        height="98.523811"
-       xlink:href="faces/face21.png"
-       id="image3917"
-       x="195.05353"
+       id="image3915"
+       x="365.08865"
        y="422.35532" />
     <image
-       y="373.10632"
-       x="109.75188"
-       id="image3919"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face21.png"
+       xlink:href="faces/face21.png"
+       y="422.35532"
+       x="195.05353"
+       id="image3917"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face22.png"
        xlink:href="faces/face22.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
        style="display:inline"
        width="113.736"
        height="98.523811"
+       id="image3919"
+       x="109.75188"
+       y="373.10632" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face23.png"
        xlink:href="faces/face23.png"
-       id="image3921"
+       y="225.85164"
        x="365.37274"
-       y="225.85164" />
+       id="image3921"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
     <image
-       y="275.10059"
-       x="280.07108"
-       id="image3923"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face24.png"
        xlink:href="faces/face24.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
        style="display:inline"
        width="113.736"
        height="98.523811"
+       id="image3923"
+       x="280.07108"
+       y="275.10059" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face25.png"
        xlink:href="faces/face25.png"
-       id="image3925"
+       y="225.35956"
        x="24.450188"
-       y="225.35956" />
-    <image
-       y="176.11066"
-       x="109.7519"
-       id="image3927"
-       xlink:href="faces/face26.png"
+       id="image3925"
        height="98.523811"
        width="113.736"
        style="display:inline" />
     <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face26.png"
+       xlink:href="faces/face26.png"
        style="display:inline"
        width="113.736"
        height="98.523811"
+       id="image3927"
+       x="109.7519"
+       y="176.11066" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face27.png"
        xlink:href="faces/face27.png"
-       id="image3933"
+       y="28.855936"
        x="24.734341"
+       id="image3933"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face28.png"
+       xlink:href="faces/face28.png"
+       style="display:inline"
+       width="113.736"
+       height="98.523811"
+       id="image3935"
+       x="24.734373"
+       y="-69.641968" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face29.png"
+       xlink:href="faces/face29.png"
+       y="78.104813"
+       x="280.07114"
+       id="image3937"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face30.png"
+       xlink:href="faces/face30.png"
+       style="display:inline"
+       width="113.736"
+       height="98.523811"
+       id="image3939"
+       x="194.76945"
        y="28.855936" />
     <image
-       y="-69.641968"
-       x="24.734373"
-       id="image3935"
-       xlink:href="faces/face28.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       style="display:inline"
-       width="113.736"
-       height="98.523811"
-       xlink:href="faces/face29.png"
-       id="image3937"
-       x="280.07114"
-       y="78.104813" />
-    <image
-       y="28.855936"
-       x="194.76945"
-       id="image3939"
-       xlink:href="faces/face30.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       style="display:inline"
-       width="113.736"
-       height="98.523811"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face31.png"
        xlink:href="faces/face31.png"
-       id="image3941"
+       y="-217.38876"
        x="110.03596"
-       y="-217.38876" />
+       id="image3941"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
     <image
-       y="-168.13979"
-       x="195.33759"
-       id="image3943"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face32.png"
        xlink:href="faces/face32.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
        style="display:inline"
        width="113.736"
        height="98.523811"
+       id="image3943"
+       x="195.33759"
+       y="-168.13979" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face33.png"
        xlink:href="faces/face33.png"
-       id="image3945"
+       y="-315.3945"
        x="280.35516"
-       y="-315.3945" />
+       id="image3945"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
     <image
-       y="-364.64352"
-       x="365.65689"
-       id="image3947"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face34.png"
        xlink:href="faces/face34.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
        style="display:inline"
        width="113.736"
        height="98.523811"
+       id="image3947"
+       x="365.65689"
+       y="-364.64352" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face35.png"
        xlink:href="faces/face35.png"
-       id="image3949"
+       y="-69.641945"
        x="369.63788"
-       y="-69.641945" />
+       id="image3949"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
     <image
-       y="-168.13986"
-       x="365.37271"
-       id="image3951"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face36.png"
        xlink:href="faces/face36.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
        style="display:inline"
-       y="-367.33841"
-       x="1559.8523"
-       id="image5291-7"
+       width="113.736"
+       height="98.523811"
+       id="image3951"
+       x="365.37271"
+       y="-168.13986" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face37.png"
        xlink:href="faces/face37.png"
-       height="98.523811"
-       width="113.736" />
-    <image
-       style="display:inline"
        width="113.736"
        height="98.523811"
-       xlink:href="faces/face38.png"
-       id="image5348-4"
+       id="image5291-7"
        x="1559.8523"
-       y="-268.84042" />
+       y="-367.33841"
+       style="display:inline" />
     <image
-       style="display:inline"
-       width="113.736"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face38.png"
+       xlink:href="faces/face38.png"
+       y="-268.84042"
+       x="1559.8523"
+       id="image5348-4"
        height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face39.png"
        xlink:href="faces/face39.png"
-       id="image5348-3-2"
+       y="-268.85336"
        x="1729.8871"
-       y="-268.85336" />
-    <image
-       style="display:inline"
-       width="113.736"
+       id="image5348-3-2"
        height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face40.png"
        xlink:href="faces/face40.png"
-       id="image5348-3-6-4"
+       y="-219.59132"
        x="1815.1892"
-       y="-219.59132" />
-    <image
-       style="display:inline"
-       width="113.736"
+       id="image5348-3-6-4"
        height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face41.png"
        xlink:href="faces/face41.png"
-       id="image5348-3-6-5-1"
+       y="-72.336769"
        x="1559.5681"
-       y="-72.336769" />
-    <image
-       style="display:inline"
-       width="113.736"
+       id="image5348-3-6-5-1"
        height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face42.png"
        xlink:href="faces/face42.png"
-       id="image5348-3-6-5-2-4"
+       y="-121.58564"
        x="1644.8699"
-       y="-121.58564" />
+       id="image5348-3-6-5-2-4"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
     <image
-       y="-71.844582"
-       x="1900.4908"
-       id="image5530-8"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face43.png"
        xlink:href="faces/face43.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
        style="display:inline"
        width="113.736"
        height="98.523811"
+       id="image5530-8"
+       x="1900.4908"
+       y="-71.844582" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face44.png"
        xlink:href="faces/face44.png"
-       id="image3871-4"
+       y="-22.595715"
        x="1815.1891"
-       y="-22.595715" />
-    <image
-       style="display:inline"
-       width="113.736"
+       id="image3871-4"
        height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face45.png"
        xlink:href="faces/face45.png"
-       id="image3871-1-8"
+       y="124.659"
        x="1900.2065"
-       y="124.659" />
+       id="image3871-1-8"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
     <image
-       y="223.15697"
-       x="1900.2067"
-       id="image3891-2"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face46.png"
        xlink:href="faces/face46.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
        style="display:inline"
        width="113.736"
        height="98.523811"
-       xlink:href="faces/face47.png"
-       id="image3893-0"
-       x="1644.87"
-       y="75.410133" />
-    <image
-       y="124.65906"
-       x="1730.1716"
-       id="image3895-1"
-       xlink:href="faces/face48.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       style="display:inline"
-       width="113.736"
-       height="98.523811"
-       xlink:href="faces/face49.png"
-       id="image3897-1"
-       x="1814.905"
-       y="370.90378" />
-    <image
-       y="321.65463"
-       x="1729.6033"
-       id="image3899-9"
-       xlink:href="faces/face50.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       style="display:inline"
-       width="113.736"
-       height="98.523811"
-       xlink:href="faces/face51.png"
-       id="image3905-1"
-       x="1644.5858"
-       y="468.90936" />
-    <image
-       y="518.15839"
-       x="1559.2841"
-       id="image3907-3"
-       xlink:href="faces/face52.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       style="display:inline"
-       width="113.736"
-       height="98.523811"
-       xlink:href="faces/face53.png"
-       id="image3909-0"
-       x="1559.5682"
+       id="image3891-2"
+       x="1900.2067"
        y="223.15697" />
     <image
-       y="321.65463"
-       x="1559.5682"
-       id="image3911-9"
-       xlink:href="faces/face54.png"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face47.png"
+       xlink:href="faces/face47.png"
+       y="75.410133"
+       x="1644.87"
+       id="image3893-0"
        height="98.523811"
        width="113.736"
        style="display:inline" />
     <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face48.png"
+       xlink:href="faces/face48.png"
        style="display:inline"
        width="113.736"
        height="98.523811"
-       xlink:href="faces/face55.png"
-       id="image3913-7"
-       x="1388.6808"
+       id="image3895-1"
+       x="1730.1716"
+       y="124.65906" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face49.png"
+       xlink:href="faces/face49.png"
+       y="370.90378"
+       x="1814.905"
+       id="image3897-1"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face50.png"
+       xlink:href="faces/face50.png"
+       style="display:inline"
+       width="113.736"
+       height="98.523811"
+       id="image3899-9"
+       x="1729.6033"
+       y="321.65463" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face51.png"
+       xlink:href="faces/face51.png"
+       y="468.90936"
+       x="1644.5858"
+       id="image3905-1"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face52.png"
+       xlink:href="faces/face52.png"
+       style="display:inline"
+       width="113.736"
+       height="98.523811"
+       id="image3907-3"
+       x="1559.2841"
        y="518.15839" />
     <image
-       y="419.66049"
-       x="1388.6808"
-       id="image3915-1"
-       xlink:href="faces/face56.png"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face53.png"
+       xlink:href="faces/face53.png"
+       y="223.15697"
+       x="1559.5682"
+       id="image3909-0"
        height="98.523811"
        width="113.736"
        style="display:inline" />
     <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face54.png"
+       xlink:href="faces/face54.png"
        style="display:inline"
        width="113.736"
        height="98.523811"
-       xlink:href="faces/face57.png"
-       id="image3917-6"
-       x="1218.6458"
+       id="image3911-9"
+       x="1559.5682"
+       y="321.65463" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face55.png"
+       xlink:href="faces/face55.png"
+       y="518.15839"
+       x="1388.6808"
+       id="image3913-7"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face56.png"
+       xlink:href="faces/face56.png"
+       style="display:inline"
+       width="113.736"
+       height="98.523811"
+       id="image3915-1"
+       x="1388.6808"
        y="419.66049" />
     <image
-       y="370.41147"
-       x="1133.344"
-       id="image3919-6"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face57.png"
+       xlink:href="faces/face57.png"
+       y="419.66049"
+       x="1218.6458"
+       id="image3917-6"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face58.png"
        xlink:href="faces/face58.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
        style="display:inline"
        width="113.736"
        height="98.523811"
+       id="image3919-6"
+       x="1133.344"
+       y="370.41147" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face59.png"
        xlink:href="faces/face59.png"
-       id="image3921-7"
+       y="223.15685"
        x="1388.9648"
-       y="223.15685" />
+       id="image3921-7"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
     <image
-       y="272.40573"
-       x="1303.6632"
-       id="image3923-8"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face60.png"
        xlink:href="faces/face60.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
        style="display:inline"
        width="113.736"
        height="98.523811"
+       id="image3923-8"
+       x="1303.6632"
+       y="272.40573" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face61.png"
        xlink:href="faces/face61.png"
-       id="image3925-0"
+       y="222.66478"
        x="1048.0424"
-       y="222.66478" />
-    <image
-       y="173.41588"
-       x="1133.3441"
-       id="image3927-3"
-       xlink:href="faces/face62.png"
+       id="image3925-0"
        height="98.523811"
        width="113.736"
        style="display:inline" />
     <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face62.png"
+       xlink:href="faces/face62.png"
        style="display:inline"
        width="113.736"
        height="98.523811"
+       id="image3927-3"
+       x="1133.3441"
+       y="173.41588" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face63.png"
        xlink:href="faces/face63.png"
-       id="image3933-8"
+       y="26.161123"
        x="1048.3265"
+       id="image3933-8"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face64.png"
+       xlink:href="faces/face64.png"
+       style="display:inline"
+       width="113.736"
+       height="98.523811"
+       id="image3935-1"
+       x="1048.3265"
+       y="-72.336769" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face65.png"
+       xlink:href="faces/face65.png"
+       y="75.410011"
+       x="1303.6633"
+       id="image3937-2"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face66.png"
+       xlink:href="faces/face66.png"
+       style="display:inline"
+       width="113.736"
+       height="98.523811"
+       id="image3939-1"
+       x="1218.3617"
        y="26.161123" />
     <image
-       y="-72.336769"
-       x="1048.3265"
-       id="image3935-1"
-       xlink:href="faces/face64.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       style="display:inline"
-       width="113.736"
-       height="98.523811"
-       xlink:href="faces/face65.png"
-       id="image3937-2"
-       x="1303.6633"
-       y="75.410011" />
-    <image
-       y="26.161123"
-       x="1218.3617"
-       id="image3939-1"
-       xlink:href="faces/face66.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       style="display:inline"
-       width="113.736"
-       height="98.523811"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face67.png"
        xlink:href="faces/face67.png"
-       id="image3941-4"
+       y="-220.08357"
        x="1133.6282"
-       y="-220.08357" />
+       id="image3941-4"
+       height="98.523811"
+       width="113.736"
+       style="display:inline" />
     <image
-       y="-170.83461"
-       x="1218.9298"
-       id="image3943-1"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face68.png"
        xlink:href="faces/face68.png"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
        style="display:inline"
        width="113.736"
        height="98.523811"
+       id="image3943-1"
+       x="1218.9298"
+       y="-170.83461" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face69.png"
        xlink:href="faces/face69.png"
-       id="image3945-5"
+       y="-318.08932"
        x="1303.9474"
-       y="-318.08932" />
-    <image
-       y="-367.33835"
-       x="1389.249"
-       id="image3947-8"
-       xlink:href="faces/face70.png"
+       id="image3945-5"
        height="98.523811"
        width="113.736"
        style="display:inline" />
     <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face70.png"
+       xlink:href="faces/face70.png"
        style="display:inline"
        width="113.736"
        height="98.523811"
-       xlink:href="faces/face71.png"
-       id="image3949-5"
-       x="1393.23"
-       y="-72.336739" />
+       id="image3947-8"
+       x="1389.249"
+       y="-367.33835" />
     <image
-       y="-170.83467"
-       x="1388.9648"
-       id="image3951-8"
-       xlink:href="faces/face72.png"
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face71.png"
+       xlink:href="faces/face71.png"
+       y="-72.336739"
+       x="1393.23"
+       id="image3949-5"
        height="98.523811"
        width="113.736"
        style="display:inline" />
+    <image
+       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face72.png"
+       xlink:href="faces/face72.png"
+       style="display:inline"
+       width="113.736"
+       height="98.523811"
+       id="image3951-8"
+       x="1388.9648"
+       y="-170.83467" />
   </g>
 </svg>
