@@ -21,12 +21,12 @@ build_${THEME}:
 out:
 	mkdir -p out
 
-patron: out/${THEME}_patron.pdf
+patron: out/patron_${THEME}.pdf
 
 build_${THEME}/patron.svg: templates/patron.svg | build_${THEME}
 	cp $(word 1,$^) $@
 
-out/${THEME}_patron.pdf: build_${THEME}/patron.svg ${TS} | out
+out/patron_${THEME}.pdf: build_${THEME}/patron.svg ${TS} | out
 	inkscape -z -A $@ $(word 1,$^)
 
 build_${THEME}/faces:
@@ -40,10 +40,10 @@ faces: ${FS}
 build_${THEME}/map.svg: | build_${THEME}
 	cp templates/map.svg build_${THEME}/
 
-out/${THEME}_map.pdf: build_${THEME}/map.svg ${FS} | out
+out/map_${THEME}.pdf: build_${THEME}/map.svg ${FS} | out
 	inkscape -z -A $@ $(word 1,$^)
 
-map: out/${THEME}_map.pdf
+map: out/map_${THEME}.pdf
 
 build_${THEME}/faces/face01.png: build_${THEME}/faces/face01.svg $T03.svg $T18.svg $T19.svg $T08.svg $T09.svg $T12.svg
 	inkscape -z -e $@ $(word 1,$^)
