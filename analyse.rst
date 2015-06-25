@@ -67,3 +67,7 @@ Analyse du flexagone72
 23                                  12    4     2           4     14      
 24                         12          14    4           2     4          
 == == == == == == == == == == == == == == == == == == == == == == == == ==
+
+- Le bord "haut" d'un triangle, ne touche jamais le bord "gauche" d'un autre
+
+- Le bord "droit" d'un triangle, ne touche jamais le bord "droit" d'un autre
