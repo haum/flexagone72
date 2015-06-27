@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="1283.2144"
-     inkscape:cy="605.79134"
+     inkscape:zoom="0.43190756"
+     inkscape:cx="1162.1361"
+     inkscape:cy="641.53477"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1839"
      inkscape:window-height="1056"
@@ -52,8 +52,8 @@
      inkscape:object-paths="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="false"
      inkscape:snap-nodes="true" />
   <metadata
      id="metadata7">
@@ -89,13 +89,13 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1792.0373,250.18446 -149.6312,0 -149.6312,0 74.8156,-129.58444 74.8156,-129.5844408 74.8156,129.5844408 z"
-       inkscape:transform-center-y="-24.542451"
-       transform="matrix(0.5681806,0,0,0.5681806,-595.96015,-261.02783)"
-       inkscape:transform-center-x="2.3571391e-05" />
+       inkscape:transform-center-y="-23.736283"
+       transform="matrix(0.5495171,0,0,0.5495171,-542.90108,-292.59523)"
+       inkscape:transform-center-x="2.4334083e-05" />
     <path
-       inkscape:transform-center-x="-1.1268779e-05"
-       transform="matrix(0.2840903,0.49205883,-0.49205883,0.2840903,-219.37506,-727.49021)"
-       inkscape:transform-center-y="24.542413"
+       inkscape:transform-center-x="-1.0827891e-05"
+       transform="matrix(0.27475855,0.47589577,-0.47589577,0.27475855,-178.68599,-743.73533)"
+       inkscape:transform-center-y="23.736263"
        d="m 1792.0373,250.18446 -149.6312,0 -149.6312,0 74.8156,-129.58444 74.8156,-129.5844408 74.8156,129.5844408 z"
        inkscape:randomized="0"
        inkscape:rounded="0"
@@ -125,13 +125,12 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1792.0373,250.18446 -149.6312,0 -149.6312,0 74.8156,-129.58444 74.8156,-129.5844408 74.8156,129.5844408 z"
-       inkscape:transform-center-y="24.542458"
-       transform="matrix(0.2840903,-0.49205883,0.49205883,0.2840903,130.6733,1184.3242)"
-       inkscape:transform-center-x="1.2463879e-05" />
+       inkscape:transform-center-y="23.736297"
+       transform="matrix(0.27475855,-0.47589577,0.47589577,0.27475855,159.86404,1105.2801)" />
     <path
-       inkscape:transform-center-x="2.9088467e-05"
-       transform="matrix(0.5681806,0,0,0.5681806,-596.24421,329.46726)"
-       inkscape:transform-center-y="-24.542453"
+       inkscape:transform-center-x="2.0426489e-05"
+       transform="matrix(0.5495171,0,0,0.5495171,-543.1758,278.50337)"
+       inkscape:transform-center-y="-23.736289"
        d="m 1792.0373,250.18446 -149.6312,0 -149.6312,0 74.8156,-129.58444 74.8156,-129.5844408 74.8156,129.5844408 z"
        inkscape:randomized="0"
        inkscape:rounded="0"
@@ -161,13 +160,13 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1792.0373,250.18446 -149.6312,0 -149.6312,0 74.8156,-129.58444 74.8156,-129.5844408 74.8156,129.5844408 z"
-       inkscape:transform-center-y="24.54244"
-       transform="matrix(0.2840903,0.49205883,-0.49205883,0.2840903,292.1508,-1022.4917)"
-       inkscape:transform-center-x="-1.2490092e-05" />
+       inkscape:transform-center-y="23.736268"
+       transform="matrix(0.27475855,0.47589577,-0.47589577,0.27475855,316.03736,-1029.0467)"
+       inkscape:transform-center-x="-2.0036127e-05" />
     <path
-       inkscape:transform-center-x="2.8059719e-05"
-       transform="matrix(0.5681806,0,0,0.5681806,-84.718391,34.465761)"
-       inkscape:transform-center-y="-24.54246"
+       inkscape:transform-center-x="2.1751254e-05"
+       transform="matrix(0.5495171,0,0,0.5495171,-48.452503,-6.8079617)"
+       inkscape:transform-center-y="-23.736292"
        d="m 1792.0373,250.18446 -149.6312,0 -149.6312,0 74.8156,-129.58444 74.8156,-129.5844408 74.8156,129.5844408 z"
        inkscape:randomized="0"
        inkscape:rounded="0"
@@ -183,9 +182,9 @@
        style="color:#000000;fill:none;stroke:#000000;stroke-width:15.0131216;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="star" />
     <path
-       inkscape:transform-center-x="2.3458697e-05"
-       transform="matrix(0.5681806,0,0,0.5681806,432.76738,-261.02783)"
-       inkscape:transform-center-y="-24.542451"
+       inkscape:transform-center-x="1.008977e-05"
+       transform="matrix(0.5495171,0,0,0.5495171,447.04761,-295.25677)"
+       inkscape:transform-center-y="-23.736283"
        d="m 1792.0373,250.18446 -149.6312,0 -149.6312,0 74.8156,-129.58444 74.8156,-129.5844408 74.8156,129.5844408 z"
        inkscape:randomized="0"
        inkscape:rounded="0"
@@ -203,23 +202,6 @@
     <path
        sodipodi:type="star"
        style="color:#000000;fill:none;stroke:#000000;stroke-width:15.0131216;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path8555-5"
-       sodipodi:sides="3"
-       sodipodi:cx="1642.4061"
-       sodipodi:cy="163.79483"
-       sodipodi:r1="172.77925"
-       sodipodi:r2="86.389626"
-       sodipodi:arg1="0.52359878"
-       sodipodi:arg2="1.5707963"
-       inkscape:flatsided="false"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 1792.0373,250.18446 -149.6312,0 -149.6312,0 74.8156,-129.58444 74.8156,-129.5844408 74.8156,129.5844408 z"
-       inkscape:transform-center-y="24.542413"
-       transform="matrix(0.2840903,0.49205883,-0.49205883,0.2840903,809.3524,-727.49021)" />
-    <path
-       sodipodi:type="star"
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:15.0131216;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path4906"
        sodipodi:sides="3"
        sodipodi:cx="1642.4061"
@@ -232,12 +214,12 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1792.0373,250.18446 -149.6312,0 -149.6312,0 74.8156,-129.58444 74.8156,-129.5844408 74.8156,129.5844408 z"
-       inkscape:transform-center-y="-24.542455"
-       transform="matrix(-0.2840903,0.49205883,-0.49205883,-0.2840903,2419.2455,-636.79191)"
-       inkscape:transform-center-x="-2.1037248e-05" />
+       inkscape:transform-center-y="-23.736272"
+       transform="matrix(-0.27475855,0.47589577,-0.47589577,-0.27475855,2373.2616,-656.01627)"
+       inkscape:transform-center-x="-6.2055123e-05" />
     <path
-       transform="matrix(-0.5681806,0,0,-0.5681806,2634.9212,-77.428549)"
-       inkscape:transform-center-y="24.542449"
+       transform="matrix(-0.5495171,0,0,-0.5495171,2581.8527,-115.02678)"
+       inkscape:transform-center-y="23.736286"
        d="m 1792.0373,250.18446 -149.6312,0 -149.6312,0 74.8156,-129.58444 74.8156,-129.5844408 74.8156,129.5844408 z"
        inkscape:randomized="0"
        inkscape:rounded="0"
@@ -252,7 +234,7 @@
        id="path4908"
        style="color:#000000;fill:none;stroke:#000000;stroke-width:15.0131216;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="star"
-       inkscape:transform-center-x="2.588235e-05" />
+       inkscape:transform-center-x="0.00010500406" />
     <path
        sodipodi:type="star"
        style="color:#000000;fill:none;stroke:#000000;stroke-width:15.0131216;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -268,13 +250,13 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1792.0373,250.18446 -149.6312,0 -149.6312,0 74.8156,-129.58444 74.8156,-129.5844408 74.8156,129.5844408 z"
-       inkscape:transform-center-y="24.542423"
-       transform="matrix(0.2840903,0.49205883,-0.49205883,0.2840903,1315.4588,-434.69141)"
-       inkscape:transform-center-x="3.191417e-05" />
+       inkscape:transform-center-y="23.736269"
+       transform="matrix(0.27475855,0.47589577,-0.47589577,0.27475855,1305.7318,-460.55434)"
+       inkscape:transform-center-x="8.8611825e-05" />
     <path
-       inkscape:transform-center-x="-1.0787567e-05"
-       transform="matrix(-0.2840903,0.49205883,-0.49205883,-0.2840903,1907.7196,-341.79035)"
-       inkscape:transform-center-y="-24.54245"
+       inkscape:transform-center-x="6.7198832e-05"
+       transform="matrix(-0.27475855,0.47589577,-0.47589577,-0.27475855,1878.5381,-370.70487)"
+       inkscape:transform-center-y="-23.736264"
        d="m 1792.0373,250.18446 -149.6312,0 -149.6312,0 74.8156,-129.58444 74.8156,-129.5844408 74.8156,129.5844408 z"
        inkscape:randomized="0"
        inkscape:rounded="0"
@@ -289,6 +271,24 @@
        id="path5354"
        style="color:#000000;fill:none;stroke:#000000;stroke-width:15.0131216;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:15.0131216;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path8081"
+       sodipodi:sides="3"
+       sodipodi:cx="1642.4061"
+       sodipodi:cy="163.79483"
+       sodipodi:r1="172.77925"
+       sodipodi:r2="86.389626"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 1792.0373,250.18446 -149.6312,0 -149.6312,0 74.8156,-129.58444 74.8156,-129.5844408 74.8156,129.5844408 z"
+       inkscape:transform-center-y="23.736263"
+       transform="matrix(0.27475855,0.47589577,-0.47589577,0.27475855,811.26273,-746.39678)"
+       inkscape:transform-center-x="-1.0827891e-05" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -300,7 +300,7 @@
     <g
        id="use20405"
        style="display:inline"
-       transform="matrix(0.56867764,0,0,0.56867764,-503.89442,-171.61468)">
+       transform="matrix(0.54999781,0,0,0.54999781,-453.8595,-206.11911)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -337,7 +337,7 @@
     <g
        id="use20425"
        style="display:inline"
-       transform="matrix(0.28433882,0.49248928,-0.49248928,0.28433882,260.7495,-898.05401)">
+       transform="matrix(0.27499891,0.47631207,-0.47631207,0.27499891,285.66752,-908.69648)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -374,7 +374,7 @@
     <g
        id="use20427"
        style="display:inline"
-       transform="matrix(-0.28433882,0.49248928,-0.49248928,-0.28433882,1272.1865,-599.07241)">
+       transform="matrix(-0.27499891,0.47631207,-0.47631207,-0.27499891,1263.881,-619.53578)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -411,7 +411,7 @@
     <g
        id="use20429"
        style="display:inline"
-       transform="matrix(-0.56867764,0,0,-0.56867764,1518.9793,426.34833)">
+       transform="matrix(-0.54999781,0,0,-0.54999781,1502.5671,372.20211)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -448,7 +448,7 @@
     <g
        id="use20431"
        style="display:inline"
-       transform="matrix(-0.28433882,-0.49248928,0.49248928,-0.28433882,754.33528,1152.7875)">
+       transform="matrix(-0.27499891,-0.47631207,0.47631207,-0.27499891,763.04007,1074.7793)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -485,7 +485,7 @@
     <g
        id="use20433"
        style="display:inline"
-       transform="matrix(0.28433882,-0.49248928,0.49248928,0.28433882,-257.10154,853.806)">
+       transform="matrix(0.27499891,-0.47631207,0.47631207,0.27499891,-215.17324,785.61872)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -520,895 +520,3961 @@
          transform="matrix(0.64705883,0,0,0.64705883,448.87435,96.389351)" />
     </g>
     <g
-       id="use20435"
+       transform="matrix(0.54999781,0,0,0.54999781,536.08923,-208.78057)"
        style="display:inline"
-       transform="matrix(0.56867764,0,0,0.56867764,524.83305,-171.61468)">
+       id="g6325">
       <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path5434"
+         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="M 1328.5767,439.14606 1179.5758,6.1332025"
-         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <path
-         sodipodi:nodetypes="cc"
+         id="path6327"
          inkscape:connector-curvature="0"
-         id="path5436"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
-         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         id="path6329"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
       <path
-         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
-         sodipodi:ry="20.043749"
-         sodipodi:rx="20.043749"
-         sodipodi:cy="352.59955"
-         sodipodi:cx="1298.1274"
-         id="path5438"
-         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)"
          sodipodi:type="arc"
-         transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
+         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path6331"
+         sodipodi:cx="1298.1274"
+         sodipodi:cy="352.59955"
+         sodipodi:rx="20.043749"
+         sodipodi:ry="20.043749"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z" />
       <path
-         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
-         sodipodi:ry="20.043749"
-         sodipodi:rx="20.043749"
-         sodipodi:cy="352.59955"
-         sodipodi:cx="1298.1274"
-         id="path5440"
-         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="matrix(0.64705883,0,0,0.64705883,448.87435,96.389351)"
          sodipodi:type="arc"
-         transform="matrix(0.64705883,0,0,0.64705883,448.87435,96.389351)" />
+         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path6333"
+         sodipodi:cx="1298.1274"
+         sodipodi:cy="352.59955"
+         sodipodi:rx="20.043749"
+         sodipodi:ry="20.043749"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z" />
     </g>
     <g
-       id="use20437"
+       transform="matrix(0.27499891,0.47631207,-0.47631207,0.27499891,1275.6162,-911.35794)"
        style="display:inline"
-       transform="matrix(0.28433882,0.49248928,-0.49248928,0.28433882,1289.477,-898.05401)">
+       id="g6335">
       <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path5444"
+         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="M 1328.5767,439.14606 1179.5758,6.1332025"
-         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <path
-         sodipodi:nodetypes="cc"
+         id="path6337"
          inkscape:connector-curvature="0"
-         id="path5446"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
-         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         id="path6339"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
       <path
-         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
-         sodipodi:ry="20.043749"
-         sodipodi:rx="20.043749"
-         sodipodi:cy="352.59955"
-         sodipodi:cx="1298.1274"
-         id="path5448"
-         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)"
          sodipodi:type="arc"
-         transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
+         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path6341"
+         sodipodi:cx="1298.1274"
+         sodipodi:cy="352.59955"
+         sodipodi:rx="20.043749"
+         sodipodi:ry="20.043749"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z" />
       <path
-         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
-         sodipodi:ry="20.043749"
-         sodipodi:rx="20.043749"
-         sodipodi:cy="352.59955"
-         sodipodi:cx="1298.1274"
-         id="path5450"
-         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="matrix(0.64705883,0,0,0.64705883,448.87435,96.389351)"
          sodipodi:type="arc"
-         transform="matrix(0.64705883,0,0,0.64705883,448.87435,96.389351)" />
+         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path6343"
+         sodipodi:cx="1298.1274"
+         sodipodi:cy="352.59955"
+         sodipodi:rx="20.043749"
+         sodipodi:ry="20.043749"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z" />
     </g>
     <g
-       id="use20439"
+       transform="matrix(-0.27499891,0.47631207,-0.47631207,-0.27499891,2253.8297,-622.19724)"
        style="display:inline"
-       transform="matrix(-0.28433882,0.49248928,-0.49248928,-0.28433882,2300.914,-599.07241)">
+       id="g6345">
       <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path5454"
+         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="M 1328.5767,439.14606 1179.5758,6.1332025"
-         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <path
-         sodipodi:nodetypes="cc"
+         id="path6347"
          inkscape:connector-curvature="0"
-         id="path5456"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
-         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         id="path6349"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
       <path
-         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
-         sodipodi:ry="20.043749"
-         sodipodi:rx="20.043749"
-         sodipodi:cy="352.59955"
-         sodipodi:cx="1298.1274"
-         id="path5458"
-         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)"
          sodipodi:type="arc"
-         transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
+         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path6351"
+         sodipodi:cx="1298.1274"
+         sodipodi:cy="352.59955"
+         sodipodi:rx="20.043749"
+         sodipodi:ry="20.043749"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z" />
       <path
-         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
-         sodipodi:ry="20.043749"
-         sodipodi:rx="20.043749"
-         sodipodi:cy="352.59955"
-         sodipodi:cx="1298.1274"
-         id="path5460"
-         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="matrix(0.64705883,0,0,0.64705883,448.87435,96.389351)"
          sodipodi:type="arc"
-         transform="matrix(0.64705883,0,0,0.64705883,448.87435,96.389351)" />
+         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path6353"
+         sodipodi:cx="1298.1274"
+         sodipodi:cy="352.59955"
+         sodipodi:rx="20.043749"
+         sodipodi:ry="20.043749"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z" />
     </g>
     <g
-       id="use20441"
+       transform="matrix(-0.54999781,0,0,-0.54999781,2492.5158,369.54065)"
        style="display:inline"
-       transform="matrix(-0.56867764,0,0,-0.56867764,2547.7068,426.34833)">
+       id="g6355">
       <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path5464"
+         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="M 1328.5767,439.14606 1179.5758,6.1332025"
-         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <path
-         sodipodi:nodetypes="cc"
+         id="path6357"
          inkscape:connector-curvature="0"
-         id="path5466"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
-         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         id="path6359"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
       <path
-         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
-         sodipodi:ry="20.043749"
-         sodipodi:rx="20.043749"
-         sodipodi:cy="352.59955"
-         sodipodi:cx="1298.1274"
-         id="path5468"
-         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)"
          sodipodi:type="arc"
-         transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
+         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path6361"
+         sodipodi:cx="1298.1274"
+         sodipodi:cy="352.59955"
+         sodipodi:rx="20.043749"
+         sodipodi:ry="20.043749"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z" />
       <path
-         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
-         sodipodi:ry="20.043749"
-         sodipodi:rx="20.043749"
-         sodipodi:cy="352.59955"
-         sodipodi:cx="1298.1274"
-         id="path5470"
-         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="matrix(0.64705883,0,0,0.64705883,448.87435,96.389351)"
          sodipodi:type="arc"
-         transform="matrix(0.64705883,0,0,0.64705883,448.87435,96.389351)" />
+         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path6363"
+         sodipodi:cx="1298.1274"
+         sodipodi:cy="352.59955"
+         sodipodi:rx="20.043749"
+         sodipodi:ry="20.043749"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z" />
     </g>
     <g
-       id="use20443"
+       transform="matrix(-0.27499891,-0.47631207,0.47631207,-0.27499891,1752.9888,1072.1179)"
        style="display:inline"
-       transform="matrix(-0.28433882,-0.49248928,0.49248928,-0.28433882,1783.0628,1152.7875)">
+       id="g6365">
       <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path5474"
+         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="M 1328.5767,439.14606 1179.5758,6.1332025"
-         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <path
-         sodipodi:nodetypes="cc"
+         id="path6367"
          inkscape:connector-curvature="0"
-         id="path5476"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
-         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         id="path6369"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
       <path
-         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
-         sodipodi:ry="20.043749"
-         sodipodi:rx="20.043749"
-         sodipodi:cy="352.59955"
-         sodipodi:cx="1298.1274"
-         id="path5478"
-         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)"
          sodipodi:type="arc"
-         transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
+         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path6371"
+         sodipodi:cx="1298.1274"
+         sodipodi:cy="352.59955"
+         sodipodi:rx="20.043749"
+         sodipodi:ry="20.043749"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z" />
       <path
-         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
-         sodipodi:ry="20.043749"
-         sodipodi:rx="20.043749"
-         sodipodi:cy="352.59955"
-         sodipodi:cx="1298.1274"
-         id="path5480"
-         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="matrix(0.64705883,0,0,0.64705883,448.87435,96.389351)"
          sodipodi:type="arc"
-         transform="matrix(0.64705883,0,0,0.64705883,448.87435,96.389351)" />
+         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path6373"
+         sodipodi:cx="1298.1274"
+         sodipodi:cy="352.59955"
+         sodipodi:rx="20.043749"
+         sodipodi:ry="20.043749"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z" />
     </g>
     <g
-       id="use20445"
+       transform="matrix(0.27499891,-0.47631207,0.47631207,0.27499891,774.77549,782.95726)"
        style="display:inline"
-       transform="matrix(0.28433882,-0.49248928,0.49248928,0.28433882,771.62587,853.806)">
+       id="g6375">
       <path
-         sodipodi:nodetypes="cc"
+         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M 1328.5767,439.14606 1179.8874,16.387852"
+         id="path6377"
          inkscape:connector-curvature="0"
-         id="path5485"
-         d="M 1328.5767,439.14606 1179.5758,6.1332025"
-         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         sodipodi:nodetypes="cc" />
       <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path5487"
+         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 1628.5768,265.94095 -599.0009,-10e-5"
-         style="color:#d40000;fill:none;stroke:#d40000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         id="path6379"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
       <path
-         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
-         sodipodi:ry="20.043749"
-         sodipodi:rx="20.043749"
-         sodipodi:cy="352.59955"
-         sodipodi:cx="1298.1274"
-         id="path5489"
-         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)"
          sodipodi:type="arc"
-         transform="matrix(0.64705883,0,0,0.64705883,655.89347,37.788376)" />
+         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path6381"
+         sodipodi:cx="1298.1274"
+         sodipodi:cy="352.59955"
+         sodipodi:rx="20.043749"
+         sodipodi:ry="20.043749"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z" />
       <path
-         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z"
-         sodipodi:ry="20.043749"
-         sodipodi:rx="20.043749"
-         sodipodi:cy="352.59955"
-         sodipodi:cx="1298.1274"
-         id="path5491"
-         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="matrix(0.64705883,0,0,0.64705883,448.87435,96.389351)"
          sodipodi:type="arc"
-         transform="matrix(0.64705883,0,0,0.64705883,448.87435,96.389351)" />
+         style="color:#d40000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path6383"
+         sodipodi:cx="1298.1274"
+         sodipodi:cy="352.59955"
+         sodipodi:rx="20.043749"
+         sodipodi:ry="20.043749"
+         d="m 1318.1712,352.59955 a 20.043749,20.043749 0 1 1 -40.0875,0 20.043749,20.043749 0 1 1 40.0875,0 z" />
     </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Flex3"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
-       style="color:#d40000;fill:none;stroke:#88aa00;stroke-width:8.53016472;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 459.52955,641.97617 166.33816,-2e-5 85.30179,147.74693 -85.30174,147.74679 -170.60335,-1.1e-4 -85.30161,-147.74683 z"
+       style="color:#d40000;fill:none;stroke:#88aa00;stroke-width:8.24996758;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 474.87779,602.50401 164.99935,-2e-5 82.49981,142.89376 -82.49976,142.89363 -164.9994,-1.1e-4 -82.49963,-142.89367 z"
        id="path3144"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
     <path
-       style="color:#d40000;fill:none;stroke:#88aa00;stroke-width:8.53016472;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1483.1216,639.28138 166.3381,-2e-5 85.3018,147.74692 -85.3017,147.74679 -170.6034,-1.1e-4 -85.3016,-147.74683 z"
+       style="color:#d40000;fill:none;stroke:#88aa00;stroke-width:8.24996758;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1464.8266,599.84258 165.0197,0.0551 82.4999,142.89376 -82.4998,142.89362 -164.9994,-1.1e-4 -82.5369,-142.9391 z"
        id="path3144-4"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Faces"
+     inkscape:label="FacesZone1"
      style="display:inline"
-     transform="translate(33.023669,662.35621)">
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face01.png"
-       xlink:href="faces/face01.png"
-       width="113.736"
-       height="98.523811"
-       id="image5291"
-       x="536.26013"
-       y="-364.64359" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face02.png"
-       xlink:href="faces/face02.png"
-       y="-266.14557"
-       x="536.26019"
-       id="image5348"
-       height="98.523811"
-       width="113.736" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face03.png"
-       xlink:href="faces/face03.png"
-       y="-266.15854"
-       x="706.29498"
-       id="image5348-3"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face04.png"
-       xlink:href="faces/face04.png"
-       y="-216.89653"
-       x="791.59711"
-       id="image5348-3-6"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face05.png"
-       xlink:href="faces/face05.png"
-       y="-69.641968"
-       x="535.97601"
-       id="image5348-3-6-5"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face06.png"
-       xlink:href="faces/face06.png"
-       y="-118.89083"
-       x="621.27777"
-       id="image5348-3-6-5-2"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face07.png"
-       xlink:href="faces/face07.png"
+     transform="translate(33.023669,662.35621)"
+     sodipodi:insensitive="true">
+    <g
+       id="g3242"
+       transform="matrix(0.06874999,0,0,0.06874999,552.11148,-392.80475)">
+      <image
+         xlink:href="triangles/triangle03.svg"
+         id="image6075"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle18.svg"
+         id="image6077"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle19.svg"
+         id="image6079"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle08.svg"
+         id="image6081"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442" />
+      <image
+         xlink:href="triangles/triangle09.svg"
+         id="image6083"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle12.svg"
+         id="image6085"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g3323"
+       transform="matrix(0.06874999,0,0,0.06874999,552.11152,-297.5422)">
+      <image
+         xlink:href="triangles/triangle06.svg"
+         id="image6075-5"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle17.svg"
+         id="image6077-4"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle16.svg"
+         id="image6079-3"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle23.svg"
+         id="image6081-7"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442" />
+      <image
+         xlink:href="triangles/triangle22.svg"
+         id="image6083-8"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle07.svg"
+         id="image6085-8"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442" />
+    </g>
+    <g
+       id="g3388"
+       transform="matrix(0.06875932,0,0,0.06875932,716.55389,-297.54867)">
+      <image
+         xlink:href="triangles/triangle06.svg"
+         id="image6075-1"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle07.svg"
+         id="image6077-5"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle22.svg"
+         id="image6079-0"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442" />
+      <image
+         xlink:href="triangles/triangle23.svg"
+         id="image6081-0"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle16.svg"
+         id="image6083-4"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.6534"
+         x="200.24416" />
+      <image
+         xlink:href="triangles/triangle17.svg"
+         id="image6085-0"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g3453"
+       transform="matrix(0.06842592,0,0,0.06842592,799.32047,-249.68631)">
+      <image
+         xlink:href="triangles/triangle01.svg"
+         id="image6075-9"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle10.svg"
+         id="image6077-59"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle21.svg"
+         id="image6079-9"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442" />
+      <image
+         xlink:href="triangles/triangle20.svg"
+         id="image6081-6"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle05.svg"
+         id="image6083-9"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.5125"
+         x="199.99998" />
+      <image
+         xlink:href="triangles/triangle04.svg"
+         id="image6085-6"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g3518"
+       transform="matrix(0.06875932,0,0,0.06875932,551.82923,-107.51916)">
+      <image
+         xlink:href="triangles/triangle03.svg"
+         id="image6075-0"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle12.svg"
+         id="image6077-9"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-1600.2441" />
+      <image
+         xlink:href="triangles/triangle09.svg"
+         id="image6079-8"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.24414" />
+      <image
+         xlink:href="triangles/triangle08.svg"
+         id="image6081-3"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle19.svg"
+         id="image6083-3"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.6534"
+         x="200.24416" />
+      <image
+         xlink:href="triangles/triangle18.svg"
+         id="image6085-64"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g3583"
+       transform="matrix(0.06874999,0,0,0.06874999,634.33644,-155.12447)">
+      <image
+         xlink:href="triangles/triangle01.svg"
+         id="image6075-7"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.5125"
+         x="-600" />
+      <image
+         xlink:href="triangles/triangle04.svg"
+         id="image6077-2"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle05.svg"
+         id="image6079-7"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle20.svg"
+         id="image6081-69"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442" />
+      <image
+         xlink:href="triangles/triangle21.svg"
+         id="image6083-40"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle10.svg"
+         id="image6085-5"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442" />
+    </g>
+    <g
+       id="g3648"
+       transform="matrix(0.06874999,0,0,0.06874999,881.56084,-107.0173)">
+      <image
+         xlink:href="triangles/triangle01.svg"
+         id="image6075-11"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle16.svg"
+         id="image6077-3"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle17.svg"
+         id="image6079-38"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle06.svg"
+         id="image6081-35"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442" />
+      <image
+         xlink:href="triangles/triangle07.svg"
+         id="image6083-45"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle10.svg"
+         id="image6085-69"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g3713"
+       transform="matrix(0.06874999,0,0,0.06874999,799.04407,-59.376213)">
+      <image
+         xlink:href="triangles/triangle04.svg"
+         id="image6075-6"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle15.svg"
+         id="image6077-57"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle14.svg"
+         id="image6079-6"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle21.svg"
+         id="image6081-30"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442" />
+      <image
+         xlink:href="triangles/triangle20.svg"
+         id="image6083-7"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle05.svg"
+         id="image6085-2"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442" />
+    </g>
+    <g
+       id="g3778"
+       transform="matrix(0.06875932,0,0,0.06875932,881.27842,83.025127)">
+      <image
+         xlink:href="triangles/triangle04.svg"
+         id="image6075-3"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle05.svg"
+         id="image6077-0"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle20.svg"
+         id="image6079-09"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442" />
+      <image
+         xlink:href="triangles/triangle21.svg"
+         id="image6081-9"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle14.svg"
+         id="image6083-2"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.6534"
+         x="200.24416" />
+      <image
+         xlink:href="triangles/triangle15.svg"
+         id="image6085-87"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g3843"
+       transform="matrix(0.07734767,0,0,0.07734767,881.27877,163.40988)">
+      <image
+         xlink:href="triangles/triangle02.svg"
+         id="image6075-4"
+         height="616.01337"
+         width="711.16626"
+         y="192.47957"
+         x="355.8002" />
+      <image
+         xlink:href="triangles/triangle11.svg"
+         id="image6077-20"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="616.01337"
+         width="711.16626"
+         y="-827.78027"
+         x="700.17542" />
+      <image
+         xlink:href="triangles/triangle08.svg"
+         id="image6079-94"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="616.01337"
+         width="711.16626"
+         y="-1636.1478"
+         x="-11.207916" />
+      <image
+         xlink:href="triangles/triangle19.svg"
+         id="image6081-1"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="616.01337"
+         width="711.16626"
+         y="-211.89221"
+         x="1055.7585" />
+      <image
+         xlink:href="triangles/triangle18.svg"
+         id="image6083-29"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="616.01337"
+         width="711.16626"
+         y="-404.24646"
+         x="-1411.3417" />
+      <image
+         xlink:href="triangles/triangle03.svg"
+         id="image6085-1"
+         transform="scale(-1,-1)"
+         height="616.01337"
+         width="711.16626"
+         y="-808.36755"
+         x="-711.3833" />
+    </g>
+    <g
+       id="g3908"
+       transform="matrix(0.06874999,0,0,0.06874999,634.3365,35.400457)">
+      <image
+         xlink:href="triangles/triangle01.svg"
+         id="image6075-74"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle10.svg"
+         id="image6077-52"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-1600.2441" />
+      <image
+         xlink:href="triangles/triangle07.svg"
+         id="image6079-1"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.24414" />
+      <image
+         xlink:href="triangles/triangle06.svg"
+         id="image6081-698"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle17.svg"
+         id="image6083-37"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.2305"
+         x="200" />
+      <image
+         xlink:href="triangles/triangle16.svg"
+         id="image6085-25"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g3989"
+       transform="matrix(0.06874999,0,0,0.06874999,716.85284,83.041285)">
+      <image
+         xlink:href="triangles/triangle02.svg"
+         id="image6075-66"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle03.svg"
+         id="image6077-98"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle18.svg"
+         id="image6079-60"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.24414" />
+      <image
+         xlink:href="triangles/triangle19.svg"
+         id="image6081-71"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle08.svg"
+         id="image6083-95"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.2305"
+         x="200" />
+      <image
+         xlink:href="triangles/triangle11.svg"
+         id="image6085-51"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="200.2442" />
+    </g>
+    <g
+       id="g4054"
+       transform="matrix(0.06874999,0,0,0.06874999,798.803,321.19747)">
+      <image
+         xlink:href="triangles/triangle04.svg"
+         id="image6075-76"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle05.svg"
+         id="image6077-7"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle08.svg"
+         id="image6079-80"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle11.svg"
+         id="image6081-699"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle14.svg"
+         id="image6083-36"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.2305"
+         x="200" />
+      <image
+         xlink:href="triangles/triangle15.svg"
+         id="image6085-3"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g4146"
+       transform="matrix(0.06874999,0,0,0.06874999,716.28657,273.55634)">
+      <image
+         xlink:href="triangles/triangle02.svg"
+         id="image6075-64"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle13.svg"
+         id="image6077-44"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle24.svg"
+         id="image6079-91"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle19.svg"
+         id="image6081-65"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442" />
+      <image
+         xlink:href="triangles/triangle18.svg"
+         id="image6083-92"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle03.svg"
+         id="image6085-67"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442" />
+    </g>
+    <g
+       id="g4222"
+       transform="matrix(0.06875932,0,0,0.06875932,551.82927,273.54987)">
+      <image
+         xlink:href="triangles/triangle01.svg"
+         id="image6075-16"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle16.svg"
+         id="image6077-74"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle17.svg"
+         id="image6079-74"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle06.svg"
+         id="image6081-11"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442" />
+      <image
+         xlink:href="triangles/triangle09.svg"
+         id="image6083-1"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="0.24418895" />
+      <image
+         xlink:href="triangles/triangle12.svg"
+         id="image6085-7"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442" />
+    </g>
+    <g
+       id="g4287"
+       transform="matrix(0.06875931,0,0,0.06875931,551.82928,178.28763)">
+      <image
+         xlink:href="triangles/triangle04.svg"
+         id="image6075-8"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle15.svg"
+         id="image6077-99"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle14.svg"
+         id="image6079-70"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle11.svg"
+         id="image6081-8"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442" />
+      <image
+         xlink:href="triangles/triangle08.svg"
+         id="image6083-28"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="0.24417312" />
+      <image
+         xlink:href="triangles/triangle05.svg"
+         id="image6085-18"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442" />
+    </g>
+    <g
+       id="g4352"
+       transform="matrix(0.06874999,0,0,0.06874999,634.06165,415.97407)">
+      <image
+         xlink:href="triangles/triangle02.svg"
+         id="image6075-2"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle03.svg"
+         id="image6077-6"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle18.svg"
+         id="image6079-4"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442" />
+      <image
+         xlink:href="triangles/triangle19.svg"
+         id="image6081-19"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle24.svg"
+         id="image6083-16"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.2305"
+         x="200" />
+      <image
+         xlink:href="triangles/triangle13.svg"
+         id="image6085-9"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g4417"
+       transform="matrix(0.06875932,0,0,0.06875932,551.5712,463.60857)">
+      <image
+         xlink:href="triangles/triangle01.svg"
+         id="image6075-52"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle12.svg"
+         id="image6077-68"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle09.svg"
+         id="image6079-13"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle06.svg"
+         id="image6081-4"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle17.svg"
+         id="image6083-87"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.6534"
+         x="200.24416" />
+      <image
+         xlink:href="triangles/triangle16.svg"
+         id="image6085-59"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g4482"
+       transform="matrix(0.06875932,0,0,0.06875932,386.82987,178.28751)">
+      <image
+         xlink:href="triangles/triangle02.svg"
+         id="image6075-04"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle13.svg"
+         id="image6077-09"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle24.svg"
+         id="image6079-37"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle09.svg"
+         id="image6081-119"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442" />
+      <image
+         xlink:href="triangles/triangle06.svg"
+         id="image6083-93"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="0.24418895" />
+      <image
+         xlink:href="triangles/triangle03.svg"
+         id="image6085-73"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442" />
+    </g>
+    <g
+       id="g4547"
+       transform="matrix(0.06874999,0,0,0.06874999,304.35448,225.9349)">
+      <image
+         xlink:href="triangles/triangle04.svg"
+         id="image6075-93"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle07.svg"
+         id="image6077-58"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-1600.2441" />
+      <image
+         xlink:href="triangles/triangle10.svg"
+         id="image6079-43"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.24414" />
+      <image
+         xlink:href="triangles/triangle11.svg"
+         id="image6081-92"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle14.svg"
+         id="image6083-86"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.2305"
+         x="200" />
+      <image
+         xlink:href="triangles/triangle15.svg"
+         id="image6085-29"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g4612"
+       transform="matrix(0.06875932,0,0,0.06875932,386.55512,368.33646)">
+      <image
+         xlink:href="triangles/triangle01.svg"
+         id="image6075-17"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.48071"
+         x="-1000.3663" />
+      <image
+         xlink:href="triangles/triangle12.svg"
+         id="image6077-91"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle23.svg"
+         id="image6079-2"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442" />
+      <image
+         xlink:href="triangles/triangle22.svg"
+         id="image6081-91"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle17.svg"
+         id="image6083-79"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.6534"
+         x="200.24416" />
+      <image
+         xlink:href="triangles/triangle16.svg"
+         id="image6085-32"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g4693"
+       transform="matrix(0.06875932,0,0,0.06875932,386.55508,463.58925)">
+      <image
+         xlink:href="triangles/triangle02.svg"
+         id="image6075-664"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.48071"
+         x="-1000.3663" />
+      <image
+         xlink:href="triangles/triangle03.svg"
+         id="image6077-76"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle06.svg"
+         id="image6079-76"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle09.svg"
+         id="image6081-18"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle24.svg"
+         id="image6083-98"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.6534"
+         x="200.24416" />
+      <image
+         xlink:href="triangles/triangle13.svg"
+         id="image6085-86"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g4758"
+       transform="matrix(0.06874999,0,0,0.06874999,222.11276,368.34292)">
+      <image
+         xlink:href="triangles/triangle01.svg"
+         id="image6075-28"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle16.svg"
+         id="image6077-02"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle17.svg"
+         id="image6079-62"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle22.svg"
+         id="image6081-191"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442" />
+      <image
+         xlink:href="triangles/triangle23.svg"
+         id="image6083-22"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle12.svg"
+         id="image6085-4"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442" />
+    </g>
+    <g
+       id="g4823"
+       transform="matrix(0.06874999,0,0,0.06874999,139.61277,320.69214)">
+      <image
+         xlink:href="triangles/triangle04.svg"
+         id="image6075-14"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle15.svg"
+         id="image6077-32"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle14.svg"
+         id="image6079-97"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle11.svg"
+         id="image6081-05"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442" />
+      <image
+         xlink:href="triangles/triangle10.svg"
+         id="image6083-17"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle07.svg"
+         id="image6085-30"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g4888"
+       transform="matrix(0.06874999,0,0,0.06874999,304.33771,35.380924)">
+      <image
+         xlink:href="triangles/triangle01.svg"
+         id="image6075-35"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle12.svg"
+         id="image6077-05"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle23.svg"
+         id="image6079-5"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442" />
+      <image
+         xlink:href="triangles/triangle22.svg"
+         id="image6081-919"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle07.svg"
+         id="image6083-91"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.6534"
+         x="200.24416" />
+      <image
+         xlink:href="triangles/triangle04.svg"
+         id="image6085-17"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.41016"
+         x="200" />
+    </g>
+    <g
+       id="g4953"
+       transform="matrix(0.06875932,0,0,0.06875932,221.83053,-12.237287)">
+      <image
+         xlink:href="triangles/triangle02.svg"
+         id="image6075-34"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle05.svg"
+         id="image6077-65"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-1600.2441" />
+      <image
+         xlink:href="triangles/triangle08.svg"
+         id="image6079-79"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442" />
+      <image
+         xlink:href="triangles/triangle09.svg"
+         id="image6081-10"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle24.svg"
+         id="image6083-5"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.5125"
+         x="199.99998" />
+      <image
+         xlink:href="triangles/triangle13.svg"
+         id="image6085-63"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g5034"
+       transform="matrix(0.06874999,0,0,0.06874999,139.61309,130.1869)">
+      <image
+         xlink:href="triangles/triangle10.svg"
+         id="image6075-63"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle21.svg"
+         id="image6077-33"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle20.svg"
+         id="image6079-73"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle15.svg"
+         id="image6081-77"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442" />
+      <image
+         xlink:href="triangles/triangle14.svg"
+         id="image6083-6"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle11.svg"
+         id="image6085-48"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442" />
+    </g>
+    <g
+       id="g5099"
+       transform="matrix(0.07734767,0,0,0.07734767,57.12308,162.9241)">
+      <image
+         xlink:href="triangles/triangle01.svg"
+         id="image6075-19"
+         height="616.01337"
+         width="711.16626"
+         y="192.47957"
+         x="355.8002" />
+      <image
+         xlink:href="triangles/triangle04.svg"
+         id="image6077-94"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="616.01337"
+         width="711.16626"
+         y="-827.78027"
+         x="700.17542" />
+      <image
+         xlink:href="triangles/triangle07.svg"
+         id="image6079-90"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="616.01337"
+         width="711.16626"
+         y="-1636.1478"
+         x="-11.207916" />
+      <image
+         xlink:href="triangles/triangle22.svg"
+         id="image6081-5"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="616.01337"
+         width="711.16626"
+         y="-211.89221"
+         x="1055.7585" />
+      <image
+         xlink:href="triangles/triangle23.svg"
+         id="image6083-27"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="616.01337"
+         width="711.16626"
+         y="-404.24646"
+         x="-1411.3417" />
+      <image
+         xlink:href="triangles/triangle12.svg"
+         id="image6085-175"
+         transform="scale(-1,-1)"
+         height="616.01337"
+         width="711.16626"
+         y="-808.49298"
+         x="-711.16632" />
+    </g>
+    <g
+       id="g5175"
+       transform="matrix(0.06875932,0,0,0.06875932,57.380708,-12.237296)">
+      <image
+         xlink:href="triangles/triangle10.svg"
+         id="image6075-84"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle11.svg"
+         id="image6077-61"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle14.svg"
+         id="image6079-41"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442" />
+      <image
+         xlink:href="triangles/triangle15.svg"
+         id="image6081-99"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle20.svg"
+         id="image6083-94"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.6534"
+         x="200.24416" />
+      <image
+         xlink:href="triangles/triangle21.svg"
+         id="image6085-33"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g5256"
+       transform="matrix(0.06874999,0,0,0.06874999,57.38821,-107.49331)">
+      <image
+         xlink:href="triangles/triangle02.svg"
+         id="image6075-162"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle13.svg"
+         id="image6077-1"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle24.svg"
+         id="image6079-46"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle09.svg"
+         id="image6081-187"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442" />
+      <image
+         xlink:href="triangles/triangle08.svg"
+         id="image6083-228"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle05.svg"
+         id="image6085-20"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       transform="matrix(0.06874999,0,0,0.06874999,386.8377,-107.53263)"
+       id="g5331">
+      <image
+         xlink:href="triangles/triangle02.svg"
+         x="-600"
+         y="-1039.5125"
+         width="800"
+         height="692.9613"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         id="image5333" />
+      <image
+         xlink:href="triangles/triangle11.svg"
+         x="-200"
+         y="1039.5125"
+         width="800"
+         height="692.9613"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         id="image5335" />
+      <image
+         xlink:href="triangles/triangle10.svg"
+         x="-200"
+         y="-1732.3328"
+         width="800"
+         height="692.9613"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         id="image5337" />
+      <image
+         xlink:href="triangles/triangle21.svg"
+         x="1000.2442"
+         y="-346.55112"
+         width="800"
+         height="692.9613"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         id="image5339" />
+      <image
+         xlink:href="triangles/triangle20.svg"
+         x="-1400.2443"
+         y="-346.55115"
+         width="800"
+         height="692.9613"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         id="image5341" />
+      <image
+         xlink:href="triangles/triangle05.svg"
+         x="-800.2442"
+         y="-692.9613"
+         width="800"
+         height="692.9613"
+         transform="scale(-1,-1)"
+         id="image5343" />
+    </g>
+    <g
+       id="g5402"
+       transform="matrix(0.06874999,0,0,0.06874999,386.8541,-202.76545)">
+      <image
+         xlink:href="triangles/triangle03.svg"
+         id="image6075-06"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.5125"
+         x="-600" />
+      <image
+         xlink:href="triangles/triangle06.svg"
+         id="image6077-75"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle07.svg"
+         id="image6079-913"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle22.svg"
+         id="image6081-14"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442" />
+      <image
+         xlink:href="triangles/triangle23.svg"
+         id="image6083-795"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle12.svg"
+         id="image6085-78"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-693.10236"
+         x="-800.00006" />
+    </g>
+    <g
+       id="g5483"
+       transform="matrix(0.06874999,0,0,0.06874999,222.38748,-202.75568)">
+      <image
+         xlink:href="triangles/triangle08.svg"
+         id="image6075-72"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle19.svg"
+         id="image6077-71"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle18.svg"
+         id="image6079-20"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle13.svg"
+         id="image6081-050"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442" />
+      <image
+         xlink:href="triangles/triangle24.svg"
+         id="image6083-68"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle09.svg"
+         id="image6085-672"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442" />
+    </g>
+    <g
+       id="g5548"
+       transform="matrix(0.06875932,0,0,0.06875932,139.88036,-250.4128)">
+      <image
+         xlink:href="triangles/triangle02.svg"
+         id="image6075-845"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle05.svg"
+         id="image6077-8"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle20.svg"
+         id="image6079-04"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442" />
+      <image
+         xlink:href="triangles/triangle21.svg"
+         id="image6081-51"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle10.svg"
+         id="image6083-58"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.6534"
+         x="200.24416" />
+      <image
+         xlink:href="triangles/triangle11.svg"
+         id="image6085-41"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g5624"
+       transform="matrix(0.06874999,0,0,0.06874999,304.61239,-345.17341)">
+      <image
+         xlink:href="triangles/triangle08.svg"
+         id="image6075-83"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle09.svg"
+         id="image6077-653"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle24.svg"
+         id="image6079-57"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442" />
+      <image
+         xlink:href="triangles/triangle13.svg"
+         id="image6081-2"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle18.svg"
+         id="image6083-61"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.2305"
+         x="200" />
+      <image
+         xlink:href="triangles/triangle19.svg"
+         id="image6085-28"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g5700"
+       transform="matrix(0.06875932,0,0,0.06875932,387.10469,-392.81116)">
+      <image
+         xlink:href="triangles/triangle03.svg"
+         id="image6075-645"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle12.svg"
+         id="image6077-40"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle23.svg"
+         id="image6079-461"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442" />
+      <image
+         xlink:href="triangles/triangle22.svg"
+         id="image6081-03"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle07.svg"
+         id="image6083-12"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.5125"
+         x="199.99998" />
+      <image
+         xlink:href="triangles/triangle06.svg"
+         id="image6085-873"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="FacesZone2"
+     sodipodi:insensitive="true">
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image5530"
-       x="876.89874"
-       y="-69.149788" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face08.png"
-       xlink:href="faces/face08.png"
-       y="-19.900919"
-       x="791.59692"
-       id="image3871"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face09.png"
-       xlink:href="faces/face09.png"
-       y="127.35381"
-       x="876.61444"
-       id="image3871-1"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face10.png"
-       xlink:href="faces/face10.png"
+       id="g5924"
+       transform="matrix(0.06874999,0,0,0.06874999,1575.0839,266.88996)">
+      <image
+         id="image6075-03"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442"
+         xlink:href="triangles/triangle02.svg" />
+      <image
+         id="image6077-08"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200"
+         xlink:href="triangles/triangle13.svg" />
+      <image
+         id="image6079-975"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200"
+         xlink:href="triangles/triangle24.svg" />
+      <image
+         id="image6081-033"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443"
+         xlink:href="triangles/triangle21.svg" />
+      <image
+         id="image6083-14"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443"
+         xlink:href="triangles/triangle18.svg" />
+      <image
+         id="image6085-72"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442"
+         xlink:href="triangles/triangle03.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3891"
-       x="876.6145"
-       y="225.85181" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face11.png"
-       xlink:href="faces/face11.png"
-       y="78.104965"
-       x="621.27783"
-       id="image3893"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face12.png"
-       xlink:href="faces/face12.png"
+       id="g6000"
+       transform="matrix(0.06875932,0,0,0.06875932,1575.097,362.18182)">
+      <image
+         id="image6075-65"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000"
+         xlink:href="triangles/triangle04.svg" />
+      <image
+         id="image6077-12"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442"
+         xlink:href="triangles/triangle05.svg" />
+      <image
+         id="image6079-27"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442"
+         xlink:href="triangles/triangle10.svg" />
+      <image
+         id="image6081-112"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443"
+         xlink:href="triangles/triangle11.svg" />
+      <image
+         id="image6083-47"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.6534"
+         x="200.24416"
+         xlink:href="triangles/triangle14.svg" />
+      <image
+         id="image6085-320"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600"
+         xlink:href="triangles/triangle15.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3895"
-       x="706.57947"
-       y="127.35388" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face13.png"
-       xlink:href="faces/face13.png"
-       y="373.5986"
-       x="791.31293"
-       id="image3897"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face14.png"
-       xlink:href="faces/face14.png"
+       id="g6081"
+       transform="matrix(0.06874999,0,0,0.06874999,1739.5543,362.20767)">
+      <image
+         id="image6075-42"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442"
+         xlink:href="triangles/triangle04.svg" />
+      <image
+         id="image6077-14"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200"
+         xlink:href="triangles/triangle15.svg" />
+      <image
+         id="image6079-734"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200"
+         xlink:href="triangles/triangle14.svg" />
+      <image
+         id="image6081-70"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442"
+         xlink:href="triangles/triangle11.svg" />
+      <image
+         id="image6083-99"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443"
+         xlink:href="triangles/triangle10.svg" />
+      <image
+         id="image6085-632"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-693.10236"
+         x="-800.00006"
+         xlink:href="triangles/triangle05.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3899"
-       x="706.01117"
-       y="324.34946" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face15.png"
-       xlink:href="faces/face15.png"
-       y="471.60419"
-       x="620.99365"
-       id="image3905"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face16.png"
-       xlink:href="faces/face16.png"
+       id="g6146"
+       transform="matrix(0.06874999,0,0,0.06874999,1822.0543,409.83906)">
+      <image
+         id="image6075-00"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442"
+         xlink:href="triangles/triangle01.svg" />
+      <image
+         id="image6077-687"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200"
+         xlink:href="triangles/triangle16.svg" />
+      <image
+         id="image6079-809"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200"
+         xlink:href="triangles/triangle17.svg" />
+      <image
+         id="image6081-72"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443"
+         xlink:href="triangles/triangle20.svg" />
+      <image
+         id="image6083-31"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443"
+         xlink:href="triangles/triangle23.svg" />
+      <image
+         id="image6085-80"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-693.10236"
+         x="-800.00006"
+         xlink:href="triangles/triangle12.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3907"
-       x="535.69189"
-       y="520.85321" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face17.png"
-       xlink:href="faces/face17.png"
-       y="225.85175"
-       x="535.97607"
-       id="image3909"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face18.png"
-       xlink:href="faces/face18.png"
+       id="g6241"
+       transform="matrix(0.06874999,0,0,0.06874999,1657.3461,504.6157)">
+      <image
+         id="image6075-522"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.48071"
+         x="-1000.3663"
+         xlink:href="triangles/triangle01.svg" />
+      <image
+         id="image6077-96"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442"
+         xlink:href="triangles/triangle12.svg" />
+      <image
+         id="image6079-55"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442"
+         xlink:href="triangles/triangle23.svg" />
+      <image
+         id="image6081-49"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.3716"
+         x="-1000.2442"
+         xlink:href="triangles/triangle20.svg" />
+      <image
+         id="image6083-931"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3716"
+         x="200.2442"
+         xlink:href="triangles/triangle17.svg" />
+      <image
+         id="image6085-92"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600"
+         xlink:href="triangles/triangle16.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3911"
-       x="535.97607"
-       y="324.34946" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face19.png"
-       xlink:href="faces/face19.png"
-       y="520.85327"
-       x="365.08862"
-       id="image3913"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face20.png"
-       xlink:href="faces/face20.png"
+       id="g6317"
+       transform="matrix(0.06874999,0,0,0.06874999,1574.8293,552.25679)">
+      <image
+         id="image6075-726"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000"
+         xlink:href="triangles/triangle02.svg" />
+      <image
+         id="image6077-942"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442"
+         xlink:href="triangles/triangle03.svg" />
+      <image
+         id="image6079-83"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442"
+         xlink:href="triangles/triangle18.svg" />
+      <image
+         id="image6081-20"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.3716"
+         x="-1000.2442"
+         xlink:href="triangles/triangle21.svg" />
+      <image
+         id="image6083-49"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3716"
+         x="200.2442"
+         xlink:href="triangles/triangle24.svg" />
+      <image
+         id="image6085-47"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600"
+         xlink:href="triangles/triangle13.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3915"
-       x="365.08865"
-       y="422.35532" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face21.png"
-       xlink:href="faces/face21.png"
-       y="422.35532"
-       x="195.05353"
-       id="image3917"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face22.png"
-       xlink:href="faces/face22.png"
+       id="g6442"
+       transform="matrix(0.06875931,0,0,0.06875931,1904.5426,552.66126)">
+      <image
+         id="image6075-347"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442"
+         xlink:href="triangles/triangle04.svg" />
+      <image
+         id="image6077-86"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.3716"
+         x="-200.24422"
+         xlink:href="triangles/triangle15.svg" />
+      <image
+         id="image6079-19"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200"
+         xlink:href="triangles/triangle14.svg" />
+      <image
+         id="image6081-57"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443"
+         xlink:href="triangles/triangle23.svg" />
+      <image
+         id="image6083-498"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443"
+         xlink:href="triangles/triangle20.svg" />
+      <image
+         id="image6085-54"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-693.10236"
+         x="-800.00006"
+         xlink:href="triangles/triangle05.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3919"
-       x="109.75188"
-       y="373.10632" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face23.png"
-       xlink:href="faces/face23.png"
-       y="225.85164"
-       x="365.37274"
-       id="image3921"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face24.png"
-       xlink:href="faces/face24.png"
+       id="g6507"
+       transform="matrix(0.06874999,0,0,0.06874999,1822.0541,600.36376)">
+      <image
+         id="image6075-96"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442"
+         xlink:href="triangles/triangle01.svg" />
+      <image
+         id="image6077-69"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200"
+         xlink:href="triangles/triangle16.svg" />
+      <image
+         id="image6079-040"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200"
+         xlink:href="triangles/triangle17.svg" />
+      <image
+         id="image6081-46"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442"
+         xlink:href="triangles/triangle06.svg" />
+      <image
+         id="image6083-871"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443"
+         xlink:href="triangles/triangle07.svg" />
+      <image
+         id="image6085-12"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442"
+         xlink:href="triangles/triangle12.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3923"
-       x="280.07108"
-       y="275.10059" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face25.png"
-       xlink:href="faces/face25.png"
-       y="225.35956"
-       x="24.450188"
-       id="image3925"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face26.png"
-       xlink:href="faces/face26.png"
+       id="g6572"
+       transform="matrix(0.06875932,0,0,0.06875932,1904.2716,742.77503)">
+      <image
+         id="image6075-27"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000"
+         xlink:href="triangles/triangle01.svg" />
+      <image
+         id="image6077-95"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442"
+         xlink:href="triangles/triangle12.svg" />
+      <image
+         id="image6079-29"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442"
+         xlink:href="triangles/triangle07.svg" />
+      <image
+         id="image6081-300"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443"
+         xlink:href="triangles/triangle06.svg" />
+      <image
+         id="image6083-457"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.5125"
+         x="199.99998"
+         xlink:href="triangles/triangle17.svg" />
+      <image
+         id="image6085-06"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600"
+         xlink:href="triangles/triangle16.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3927"
-       x="109.7519"
-       y="176.11066" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face27.png"
-       xlink:href="faces/face27.png"
-       y="28.855936"
-       x="24.734341"
-       id="image3933"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face28.png"
-       xlink:href="faces/face28.png"
+       id="g6753"
+       transform="matrix(0.06874999,0,0,0.06874999,1739.8084,742.70698)">
+      <image
+         id="image6075-92"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442"
+         xlink:href="triangles/triangle02.svg" />
+      <image
+         id="image6077-21"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200"
+         xlink:href="triangles/triangle13.svg" />
+      <image
+         id="image6079-49"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41022"
+         x="-1800.4884"
+         xlink:href="triangles/triangle22.svg" />
+      <image
+         id="image6081-203"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.41022"
+         x="1000.4884"
+         xlink:href="triangles/triangle19.svg" />
+      <image
+         id="image6083-35"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443"
+         xlink:href="triangles/triangle18.svg" />
+      <image
+         id="image6085-640"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-693.24329"
+         x="-800.24426"
+         xlink:href="triangles/triangle03.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3935"
-       x="24.734373"
-       y="-69.641968" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face29.png"
-       xlink:href="faces/face29.png"
-       y="78.104813"
-       x="280.07114"
-       id="image3937"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face30.png"
-       xlink:href="faces/face30.png"
+       id="g6829"
+       transform="matrix(0.06874999,0,0,0.06874999,1657.3089,695.09516)">
+      <image
+         id="image6075-33"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000"
+         xlink:href="triangles/triangle04.svg" />
+      <image
+         id="image6077-201"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442"
+         xlink:href="triangles/triangle05.svg" />
+      <image
+         id="image6079-82"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442"
+         xlink:href="triangles/triangle20.svg" />
+      <image
+         id="image6081-0330"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.3716"
+         x="-1000.2442"
+         xlink:href="triangles/triangle23.svg" />
+      <image
+         id="image6083-878"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3716"
+         x="200.2442"
+         xlink:href="triangles/triangle14.svg" />
+      <image
+         id="image6085-70"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600"
+         xlink:href="triangles/triangle15.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3939"
-       x="194.76945"
-       y="28.855936" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face31.png"
-       xlink:href="faces/face31.png"
-       y="-217.38876"
-       x="110.03596"
-       id="image3941"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face32.png"
-       xlink:href="faces/face32.png"
+       id="g6991"
+       transform="matrix(0.06875932,0,0,0.06875932,1739.2888,933.30956)">
+      <image
+         id="image6075-87"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000"
+         xlink:href="triangles/triangle02.svg" />
+      <image
+         id="image6077-30"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442"
+         xlink:href="triangles/triangle03.svg" />
+      <image
+         id="image6079-03"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442"
+         xlink:href="triangles/triangle18.svg" />
+      <image
+         id="image6081-40"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443"
+         xlink:href="triangles/triangle19.svg" />
+      <image
+         id="image6083-67"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.6534"
+         x="200.24416"
+         xlink:href="triangles/triangle08.svg" />
+      <image
+         id="image6085-04"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600"
+         xlink:href="triangles/triangle09.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3943"
-       x="195.33759"
-       y="-168.13979" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face33.png"
-       xlink:href="faces/face33.png"
-       y="-315.3945"
-       x="280.35516"
-       id="image3945"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face34.png"
-       xlink:href="faces/face34.png"
+       id="g7056"
+       transform="matrix(0.06874999,0,0,0.06874999,1574.8091,933.2318)">
+      <image
+         id="image6075-70"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442"
+         xlink:href="triangles/triangle04.svg" />
+      <image
+         id="image6077-47"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200"
+         xlink:href="triangles/triangle15.svg" />
+      <image
+         id="image6079-02"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41022"
+         x="-1800.4884"
+         xlink:href="triangles/triangle24.svg" />
+      <image
+         id="image6081-23"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.41022"
+         x="1000.4884"
+         xlink:href="triangles/triangle21.svg" />
+      <image
+         id="image6083-23"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443"
+         xlink:href="triangles/triangle20.svg" />
+      <image
+         id="image6085-866"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442"
+         xlink:href="triangles/triangle05.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3947"
-       x="365.65689"
-       y="-364.64352" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face35.png"
-       xlink:href="faces/face35.png"
-       y="-69.641945"
-       x="369.63788"
-       id="image3949"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face36.png"
-       xlink:href="faces/face36.png"
+       id="g7132"
+       transform="matrix(0.06874999,0,0,0.06874999,1574.8297,838.04398)">
+      <image
+         id="image6075-75"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000"
+         xlink:href="triangles/triangle06.svg" />
+      <image
+         id="image6077-617"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442"
+         xlink:href="triangles/triangle07.svg" />
+      <image
+         id="image6079-916"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442"
+         xlink:href="triangles/triangle22.svg" />
+      <image
+         id="image6081-41"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.3716"
+         x="-1000.2442"
+         xlink:href="triangles/triangle13.svg" />
+      <image
+         id="image6083-678"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3716"
+         x="200.2442"
+         xlink:href="triangles/triangle16.svg" />
+      <image
+         id="image6085-66"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600"
+         xlink:href="triangles/triangle17.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3951"
-       x="365.37271"
-       y="-168.13986" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face37.png"
-       xlink:href="faces/face37.png"
-       width="113.736"
-       height="98.523811"
-       id="image5291-7"
-       x="1559.8523"
-       y="-367.33841"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face38.png"
-       xlink:href="faces/face38.png"
-       y="-268.84042"
-       x="1559.8523"
-       id="image5348-4"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face39.png"
-       xlink:href="faces/face39.png"
-       y="-268.85336"
-       x="1729.8871"
-       id="image5348-3-2"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face40.png"
-       xlink:href="faces/face40.png"
-       y="-219.59132"
-       x="1815.1892"
-       id="image5348-3-6-4"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face41.png"
-       xlink:href="faces/face41.png"
-       y="-72.336769"
-       x="1559.5681"
-       id="image5348-3-6-5-1"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face42.png"
-       xlink:href="faces/face42.png"
-       y="-121.58564"
-       x="1644.8699"
-       id="image5348-3-6-5-2-4"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face43.png"
-       xlink:href="faces/face43.png"
+       id="g7208"
+       transform="matrix(0.06874999,0,0,0.06874999,1657.0546,1075.7241)">
+      <image
+         id="image6075-58"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442"
+         xlink:href="triangles/triangle02.svg" />
+      <image
+         id="image6077-020"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200"
+         xlink:href="triangles/triangle09.svg" />
+      <image
+         id="image6079-622"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200"
+         xlink:href="triangles/triangle08.svg" />
+      <image
+         id="image6081-94"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442"
+         xlink:href="triangles/triangle19.svg" />
+      <image
+         id="image6083-63"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443"
+         xlink:href="triangles/triangle18.svg" />
+      <image
+         id="image6085-96"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-693.10236"
+         x="-800.00006"
+         xlink:href="triangles/triangle03.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image5530-8"
-       x="1900.4908"
-       y="-71.844582" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face44.png"
-       xlink:href="faces/face44.png"
-       y="-22.595715"
-       x="1815.1891"
-       id="image3871-4"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face45.png"
-       xlink:href="faces/face45.png"
-       y="124.659"
-       x="1900.2065"
-       id="image3871-1-8"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face46.png"
-       xlink:href="faces/face46.png"
+       id="g7457"
+       transform="matrix(0.06875932,0,0,0.06875932,1409.5481,1028.0865)">
+      <image
+         id="image6075-045"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000"
+         xlink:href="triangles/triangle04.svg" />
+      <image
+         id="image6077-916"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442"
+         xlink:href="triangles/triangle05.svg" />
+      <image
+         id="image6079-66"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442"
+         xlink:href="triangles/triangle20.svg" />
+      <image
+         id="image6081-21"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443"
+         xlink:href="triangles/triangle21.svg" />
+      <image
+         id="image6083-38"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.6534"
+         x="200.24416"
+         xlink:href="triangles/triangle10.svg" />
+      <image
+         id="image6085-84"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600"
+         xlink:href="triangles/triangle11.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3891-2"
-       x="1900.2067"
-       y="223.15697" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face47.png"
-       xlink:href="faces/face47.png"
-       y="75.410133"
-       x="1644.87"
-       id="image3893-0"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face48.png"
-       xlink:href="faces/face48.png"
+       id="g7522"
+       transform="matrix(0.06874999,0,0,0.06874999,1327.3303,885.67794)">
+      <image
+         id="image6075-968"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442"
+         xlink:href="triangles/triangle06.svg" />
+      <image
+         id="image6077-740"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200"
+         xlink:href="triangles/triangle17.svg" />
+      <image
+         id="image6079-28"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41022"
+         x="-1800.4884"
+         xlink:href="triangles/triangle14.svg" />
+      <image
+         id="image6081-96"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.41022"
+         x="1000.4884"
+         xlink:href="triangles/triangle23.svg" />
+      <image
+         id="image6083-51"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443"
+         xlink:href="triangles/triangle22.svg" />
+      <image
+         id="image6085-287"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-693.24329"
+         x="-800.24426"
+         xlink:href="triangles/triangle07.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3895-1"
-       x="1730.1716"
-       y="124.65906" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face49.png"
-       xlink:href="faces/face49.png"
-       y="370.90378"
-       x="1814.905"
-       id="image3897-1"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face50.png"
-       xlink:href="faces/face50.png"
+       id="g7598"
+       transform="matrix(0.06874999,0,0,0.06874999,1409.847,838.05356)">
+      <image
+         id="image6075-007"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000"
+         xlink:href="triangles/triangle08.svg" />
+      <image
+         id="image6077-77"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442"
+         xlink:href="triangles/triangle09.svg" />
+      <image
+         id="image6079-88"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442"
+         xlink:href="triangles/triangle24.svg" />
+      <image
+         id="image6081-36"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.3716"
+         x="-1000.2442"
+         xlink:href="triangles/triangle15.svg" />
+      <image
+         id="image6083-6780"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.2305"
+         x="200"
+         xlink:href="triangles/triangle18.svg" />
+      <image
+         id="image6085-58"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600"
+         xlink:href="triangles/triangle19.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3899-9"
-       x="1729.6033"
-       y="321.65463" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face51.png"
-       xlink:href="faces/face51.png"
-       y="468.90936"
-       x="1644.5858"
-       id="image3905-1"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face52.png"
-       xlink:href="faces/face52.png"
+       id="g7674"
+       transform="matrix(0.06874999,0,0,0.06874999,1245.1225,1028.0832)">
+      <image
+         id="image6075-654"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442"
+         xlink:href="triangles/triangle04.svg" />
+      <image
+         id="image6077-64"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200"
+         xlink:href="triangles/triangle11.svg" />
+      <image
+         id="image6079-98"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200"
+         xlink:href="triangles/triangle10.svg" />
+      <image
+         id="image6081-697"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442"
+         xlink:href="triangles/triangle21.svg" />
+      <image
+         id="image6083-44"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443"
+         xlink:href="triangles/triangle20.svg" />
+      <image
+         id="image6085-184"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-693.10236"
+         x="-800.00006"
+         xlink:href="triangles/triangle05.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3907-3"
-       x="1559.2841"
-       y="518.15839" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face53.png"
-       xlink:href="faces/face53.png"
-       y="223.15697"
-       x="1559.5682"
-       id="image3909-0"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face54.png"
-       xlink:href="faces/face54.png"
+       id="g7933"
+       transform="matrix(0.06874999,0,0,0.06874999,1167.5728,792.54307)">
+      <image
+         id="image6075-41"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442"
+         xlink:href="triangles/triangle01.svg" />
+      <image
+         id="image6077-49"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200"
+         xlink:href="triangles/triangle06.svg" />
+      <image
+         id="image6079-15"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200"
+         xlink:href="triangles/triangle07.svg" />
+      <image
+         id="image6081-511"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442"
+         xlink:href="triangles/triangle22.svg" />
+      <image
+         id="image6083-90"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443"
+         xlink:href="triangles/triangle23.svg" />
+      <image
+         id="image6085-99"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442"
+         xlink:href="triangles/triangle12.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3911-9"
-       x="1559.5682"
-       y="321.65463" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face55.png"
-       xlink:href="faces/face55.png"
-       y="518.15839"
-       x="1388.6808"
-       id="image3913-7"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face56.png"
-       xlink:href="faces/face56.png"
+       id="g7998"
+       transform="matrix(0.06874999,0,0,0.06874999,1327.3101,695.09503)">
+      <image
+         id="image6075-53"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.55115"
+         x="-1000.2442"
+         xlink:href="triangles/triangle10.svg" />
+      <image
+         id="image6077-50"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442"
+         xlink:href="triangles/triangle11.svg" />
+      <image
+         id="image6079-89"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442"
+         xlink:href="triangles/triangle14.svg" />
+      <image
+         id="image6081-32"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.3716"
+         x="-1000.2442"
+         xlink:href="triangles/triangle17.svg" />
+      <image
+         id="image6083-923"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3716"
+         x="200.2442"
+         xlink:href="triangles/triangle20.svg" />
+      <image
+         id="image6085-411"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600"
+         xlink:href="triangles/triangle21.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3915-1"
-       x="1388.6808"
-       y="419.66049" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face57.png"
-       xlink:href="faces/face57.png"
-       y="419.66049"
-       x="1218.6458"
-       id="image3917-6"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face58.png"
-       xlink:href="faces/face58.png"
+       id="g8063"
+       transform="matrix(0.06874999,0,0,0.06874999,1244.8104,647.46389)">
+      <image
+         id="image6075-71"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442"
+         xlink:href="triangles/triangle08.svg" />
+      <image
+         id="image6077-127"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200"
+         xlink:href="triangles/triangle19.svg" />
+      <image
+         id="image6079-286"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.55112"
+         x="-1800.2441"
+         xlink:href="triangles/triangle16.svg" />
+      <image
+         id="image6081-654"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442"
+         xlink:href="triangles/triangle13.svg" />
+      <image
+         id="image6083-76"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443"
+         xlink:href="triangles/triangle24.svg" />
+      <image
+         id="image6085-597"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442"
+         xlink:href="triangles/triangle09.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3919-6"
-       x="1133.344"
-       y="370.41147" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face59.png"
-       xlink:href="faces/face59.png"
-       y="223.15685"
-       x="1388.9648"
-       id="image3921-7"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face60.png"
-       xlink:href="faces/face60.png"
+       id="g8156"
+       transform="matrix(0.06875932,0,0,0.06875932,1080.3699,647.46712)">
+      <image
+         id="image6075-44"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000"
+         xlink:href="triangles/triangle01.svg" />
+      <image
+         id="image6077-10"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442"
+         xlink:href="triangles/triangle12.svg" />
+      <image
+         id="image6079-61"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442"
+         xlink:href="triangles/triangle23.svg" />
+      <image
+         id="image6081-195"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443"
+         xlink:href="triangles/triangle22.svg" />
+      <image
+         id="image6083-2288"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.5125"
+         x="199.99998"
+         xlink:href="triangles/triangle07.svg" />
+      <image
+         id="image6085-52"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600"
+         xlink:href="triangles/triangle06.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3923-8"
-       x="1303.6632"
-       y="272.40573" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face61.png"
-       xlink:href="faces/face61.png"
-       y="222.66478"
-       x="1048.0424"
-       id="image3925-0"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face62.png"
-       xlink:href="faces/face62.png"
+       id="g8302"
+       transform="matrix(0.06874999,0,0,0.06874999,1409.8098,552.20146)">
+      <image
+         id="image6075-279"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442"
+         xlink:href="triangles/triangle01.svg" />
+      <image
+         id="image6077-598"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200"
+         xlink:href="triangles/triangle16.svg" />
+      <image
+         id="image6079-827"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.55112"
+         x="-1800.2441"
+         xlink:href="triangles/triangle19.svg" />
+      <image
+         id="image6081-351"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442"
+         xlink:href="triangles/triangle22.svg" />
+      <image
+         id="image6083-25"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443"
+         xlink:href="triangles/triangle23.svg" />
+      <image
+         id="image6085-663"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.24414"
+         xlink:href="triangles/triangle12.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3927-3"
-       x="1133.3441"
-       y="173.41588" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face63.png"
-       xlink:href="faces/face63.png"
-       y="26.161123"
-       x="1048.3265"
-       id="image3933-8"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face64.png"
-       xlink:href="faces/face64.png"
+       id="g8367"
+       transform="matrix(0.06874999,0,0,0.06874999,1409.8097,456.93896)">
+      <image
+         id="image6075-49"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442"
+         xlink:href="triangles/triangle10.svg" />
+      <image
+         id="image6077-309"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200"
+         xlink:href="triangles/triangle21.svg" />
+      <image
+         id="image6079-54"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.55115"
+         x="-1800.2441"
+         xlink:href="triangles/triangle18.svg" />
+      <image
+         id="image6081-512"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="1000.2442"
+         xlink:href="triangles/triangle15.svg" />
+      <image
+         id="image6083-18"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443"
+         xlink:href="triangles/triangle14.svg" />
+      <image
+         id="image6085-56"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-693.10229"
+         x="-800.2442"
+         xlink:href="triangles/triangle11.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3935-1"
-       x="1048.3265"
-       y="-72.336769" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face65.png"
-       xlink:href="faces/face65.png"
-       y="75.410011"
-       x="1303.6633"
-       id="image3937-2"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face66.png"
-       xlink:href="faces/face66.png"
+       id="g8432"
+       transform="matrix(0.06875932,0,0,0.06875932,1245.3524,456.9131)">
+      <image
+         id="image6075-02"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000"
+         xlink:href="triangles/triangle02.svg" />
+      <image
+         id="image6077-772"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442"
+         xlink:href="triangles/triangle03.svg" />
+      <image
+         id="image6079-556"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442"
+         xlink:href="triangles/triangle08.svg" />
+      <image
+         id="image6081-58"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443"
+         xlink:href="triangles/triangle09.svg" />
+      <image
+         id="image6083-362"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.6534"
+         x="200.24416"
+         xlink:href="triangles/triangle24.svg" />
+      <image
+         id="image6085-95"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600"
+         xlink:href="triangles/triangle13.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3939-1"
-       x="1218.3617"
-       y="26.161123" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face67.png"
-       xlink:href="faces/face67.png"
-       y="-220.08357"
-       x="1133.6282"
-       id="image3941-4"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face68.png"
-       xlink:href="faces/face68.png"
+       id="g8562"
+       transform="matrix(0.06874999,0,0,0.06874999,1327.5848,314.52122)">
+      <image
+         id="image6075-661"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442"
+         xlink:href="triangles/triangle02.svg" />
+      <image
+         id="image6077-335"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200"
+         xlink:href="triangles/triangle13.svg" />
+      <image
+         id="image6079-901"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200"
+         xlink:href="triangles/triangle24.svg" />
+      <image
+         id="image6081-405"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55112"
+         x="1000.2442"
+         xlink:href="triangles/triangle09.svg" />
+      <image
+         id="image6083-254"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443"
+         xlink:href="triangles/triangle08.svg" />
+      <image
+         id="image6085-738"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442"
+         xlink:href="triangles/triangle03.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3943-1"
-       x="1218.9298"
-       y="-170.83461" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face69.png"
-       xlink:href="faces/face69.png"
-       y="-318.08932"
-       x="1303.9474"
-       id="image3945-5"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face70.png"
-       xlink:href="faces/face70.png"
+       id="g8643"
+       transform="translate(1904.2666,-452.79983)">
+      <image
+         id="image6075-15"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="47.63382"
+         width="54.991608"
+         y="-621.57623"
+         x="-1186.6184"
+         xlink:href="triangles/triangle02.svg" />
+      <image
+         id="image6077-54"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="47.63382"
+         width="54.991608"
+         y="573.94727"
+         x="1159.1141"
+         xlink:href="triangles/triangle03.svg" />
+      <image
+         id="image6079-99"
+         height="47.63382"
+         width="54.991608"
+         y="1338.42"
+         x="55.008389"
+         xlink:href="triangles/triangle18.svg" />
+      <image
+         id="image6081-465"
+         transform="scale(-1,-1)"
+         height="47.63382"
+         width="54.991608"
+         y="-1386.0636"
+         x="-82.504196"
+         xlink:href="triangles/triangle19.svg" />
+      <image
+         id="image6083-56"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="47.63382"
+         width="54.991608"
+         y="-669.2149"
+         x="-1214.1058"
+         xlink:href="triangles/triangle22.svg" />
+      <image
+         id="image6085-94"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="47.63382"
+         width="54.991608"
+         y="669.2052"
+         x="-1159.0974"
+         xlink:href="triangles/triangle13.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3947-8"
-       x="1389.249"
-       y="-367.33835" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face71.png"
-       xlink:href="faces/face71.png"
-       y="-72.336739"
-       x="1393.23"
-       id="image3949-5"
-       height="98.523811"
-       width="113.736"
-       style="display:inline" />
-    <image
-       sodipodi:absref="/home/toine/Bureau/FlorentSAV/flexagon/flexagon72/templates/faces/face72.png"
-       xlink:href="faces/face72.png"
+       id="g8708"
+       transform="matrix(0.07936144,0,0,0.07936144,1821.7583,966.17458)">
+      <image
+         id="image6075-45"
+         height="600.30811"
+         width="693.0351"
+         y="185.44733"
+         x="346.7291"
+         xlink:href="triangles/triangle06.svg" />
+      <image
+         id="image6077-570"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="600.30811"
+         width="693.0351"
+         y="993.18585"
+         x="-333.7551"
+         xlink:href="triangles/triangle17.svg" />
+      <image
+         id="image6079-08"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="600.30811"
+         width="693.0351"
+         y="-1593.3718"
+         x="-12.762453"
+         xlink:href="triangles/triangle16.svg" />
+      <image
+         id="image6081-01"
+         transform="scale(-1,-1)"
+         height="600.30811"
+         width="693.0351"
+         y="-1386.0636"
+         x="-1039.7643"
+         xlink:href="triangles/triangle13.svg" />
+      <image
+         id="image6083-43"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="600.30811"
+         width="693.0351"
+         y="-392.87772"
+         x="-1373.5194"
+         xlink:href="triangles/triangle22.svg" />
+      <image
+         id="image6085-878"
+         transform="scale(-1,-1)"
+         height="600.30811"
+         width="693.0351"
+         y="-785.6333"
+         x="-693.24664"
+         xlink:href="triangles/triangle07.svg" />
+    </g>
+    <g
        style="display:inline"
-       width="113.736"
-       height="98.523811"
-       id="image3951-8"
-       x="1388.9648"
-       y="-170.83467" />
+       id="g8789"
+       transform="matrix(0.06873951,0,0,0.06873951,1574.5595,1123.3171)">
+      <image
+         id="image6075-46"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000"
+         xlink:href="triangles/triangle04.svg" />
+      <image
+         id="image6077-327"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442"
+         xlink:href="triangles/triangle05.svg" />
+      <image
+         id="image6079-994"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442"
+         xlink:href="triangles/triangle20.svg" />
+      <image
+         id="image6081-89"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443"
+         xlink:href="triangles/triangle21.svg" />
+      <image
+         id="image6083-866"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443"
+         xlink:href="triangles/triangle24.svg" />
+      <image
+         id="image6085-546"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600"
+         xlink:href="triangles/triangle15.svg" />
+    </g>
+    <g
+       id="g9518"
+       transform="matrix(0.06875033,0,0,0.06875033,1409.5347,1123.3)">
+      <image
+         xlink:href="triangles/triangle08.svg"
+         id="image6075-90"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle19.svg"
+         id="image6077-34"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle18.svg"
+         id="image6079-766"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle15.svg"
+         id="image6081-88"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle24.svg"
+         id="image6083-0"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle09.svg"
+         id="image6085-21"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-693.10236"
+         x="-800.00006" />
+    </g>
+    <g
+       id="g9583"
+       transform="matrix(0.06873951,0,0,0.06873951,1162.5939,980.41367)">
+      <image
+         xlink:href="triangles/triangle06.svg"
+         id="image6075-89"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle07.svg"
+         id="image6077-13"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle22.svg"
+         id="image6079-65"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442" />
+      <image
+         xlink:href="triangles/triangle23.svg"
+         id="image6081-75"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle14.svg"
+         id="image6083-69"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle17.svg"
+         id="image6085-14"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g9648"
+       transform="matrix(0.06875033,0,0,0.06875033,1085.0556,840.18416)">
+      <image
+         xlink:href="triangles/triangle10.svg"
+         id="image6075-892"
+         height="692.9613"
+         width="800"
+         y="0.14099309"
+         x="400.2442" />
+      <image
+         xlink:href="triangles/triangle21.svg"
+         id="image6077-67"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="1039.5125"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle20.svg"
+         id="image6079-84"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1732.3328"
+         x="-200" />
+      <image
+         xlink:href="triangles/triangle17.svg"
+         id="image6081-68"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle14.svg"
+         id="image6083-81"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle11.svg"
+         id="image6085-76"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-692.9613"
+         x="-800.2442" />
+    </g>
+    <g
+       id="g9729"
+       transform="matrix(0.06873951,0,0,0.06873951,1080.3897,552.19261)">
+      <image
+         xlink:href="triangles/triangle08.svg"
+         id="image6075-95"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle09.svg"
+         id="image6077-498"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle24.svg"
+         id="image6079-889"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442" />
+      <image
+         xlink:href="triangles/triangle13.svg"
+         id="image6081-93"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle16.svg"
+         id="image6083-74"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle19.svg"
+         id="image6085-23"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g9794"
+       transform="matrix(0.06873951,0,0,0.06873951,1162.8854,409.32476)">
+      <image
+         xlink:href="triangles/triangle01.svg"
+         id="image6075-01"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle12.svg"
+         id="image6077-46"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle23.svg"
+         id="image6079-16"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442" />
+      <image
+         xlink:href="triangles/triangle22.svg"
+         id="image6081-08"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle19.svg"
+         id="image6083-30"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle16.svg"
+         id="image6085-218"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
+    <g
+       id="g9859"
+       transform="matrix(0.06873951,0,0,0.06873951,1410.0929,266.89732)">
+      <image
+         xlink:href="triangles/triangle10.svg"
+         id="image6075-24"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-1000" />
+      <image
+         xlink:href="triangles/triangle11.svg"
+         id="image6077-88"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-1039.3715"
+         x="600.2442" />
+      <image
+         xlink:href="triangles/triangle14.svg"
+         id="image6079-435"
+         height="692.9613"
+         width="800"
+         y="692.9613"
+         x="800.2442" />
+      <image
+         xlink:href="triangles/triangle15.svg"
+         id="image6081-33"
+         transform="scale(-1,-1)"
+         height="692.9613"
+         width="800"
+         y="-1386.0636"
+         x="-1200.2443" />
+      <image
+         xlink:href="triangles/triangle18.svg"
+         id="image6083-53"
+         transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="-346.55115"
+         x="-1400.2443" />
+      <image
+         xlink:href="triangles/triangle21.svg"
+         id="image6085-34"
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+         height="692.9613"
+         width="800"
+         y="346.41016"
+         x="-600" />
+    </g>
   </g>
 </svg>

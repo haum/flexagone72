@@ -37,10 +37,10 @@ $F%.svg: templates/faces/face%.svg | build_${THEME}/faces
 
 faces: ${FS}
 
-build_${THEME}/map.svg: | build_${THEME}
-	cp templates/map.svg build_${THEME}/
+build_${THEME}/map.svg: templates/map.svg | build_${THEME}
+	cp $(word 1,$^) $@
 
-out/map_${THEME}.pdf: build_${THEME}/map.svg ${FS} | out
+out/map_${THEME}.pdf: build_${THEME}/map.svg | out
 	inkscape -z -A $@ $(word 1,$^)
 
 map: out/map_${THEME}.pdf
