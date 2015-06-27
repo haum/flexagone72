@@ -71,3 +71,7 @@ Analyse du flexagone72
 - Le bord "haut" d'un triangle, ne touche jamais le bord "gauche" d'un autre
 
 - Le bord "droit" d'un triangle, ne touche jamais le bord "droit" d'un autre
+
+- Si on colorie les côtés des triangles qui se touchent de la même couleur, il y a trois ensembles disjoints
+
+- Chaque côté d'un triangle a alors une couleur différente des autres côtés
