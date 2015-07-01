@@ -1,4 +1,4 @@
-THEME?=study_shapes
+THEME?=game_dots
 
 T=build_${THEME}/triangles/triangle
 TS=$T01.svg $T02.svg $T03.svg $T04.svg $T05.svg $T06.svg $T07.svg $T08.svg $T09.svg $T10.svg $T11.svg $T12.svg $T13.svg $T14.svg $T15.svg $T16.svg $T17.svg $T18.svg $T19.svg $T20.svg $T21.svg $T22.svg $T23.svg $T24.svg
