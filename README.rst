@@ -20,23 +20,23 @@ Dossier contenant le thème XXX composé principalement des triangles de base
 templates:
 Dossier contenant les outils pour créer les fichiers de sortie
 
-build_XXX:
+build/XXX:
 Dossier pour stocker les fichiers intermédiaires servant à la construction des
 fichiers de sortie pour le thème XXX
 
 out:
 Dossier où sont créés les fichiers de sortie
 
-Makefile:
-Le Makefile pour construire le tout !
+generate.py:
+Le script pour construire le tout !
 
 Fabriquer
 =========
 
-Pour construire les fichiers de sortie, il faut avoir quel utilitaires de base
-unix (mkdir, cp...) ainsi que le logiciel Inkscape.
+Pour construire les fichiers de sortie, il faut avoir python3, la bibliotèque
+python pillow ainsi que le logiciel Inkscape.
 
-$ make THEME=XXX
+$ ./generate.py XXX # avec XXX le thème voulu
 
 Fichiers de sortie
 ==================
