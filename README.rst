@@ -16,3 +16,8 @@ Flexagone 72
 ------------
 
 Ce flexagone est sous la forme d'un hexagone et comporte 72 agencements de triangles
+
+Hexatétraflexagone
+------------------
+
+Ce flexagone est sous la forme d'un carré et comporte 6 faces (en plusieurs combinaisons)
