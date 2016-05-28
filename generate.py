@@ -22,7 +22,7 @@ def should_be_remade(file_old, file_new):
 # Triangle is one of the element that will compose an hexagon
 class Triangle:
     WIDTH = 800
-    HEIGHT = 693
+    HEIGHT = 692.820
     REGENERATED = list(False for i in range(72))
     
     @classmethod
@@ -125,7 +125,7 @@ class Face:
             return False
 
         # Build
-        img = Image.new('RGBA', (2*Triangle.WIDTH, 2*Triangle.HEIGHT), (255, 255, 255, 0))
+        img = Image.new('RGBA', (int(2*Triangle.WIDTH), int(2*Triangle.HEIGHT)), (255, 255, 255, 0))
         angle = 0
         for t in self.triangles():
             rot = (angle + t.orient) % 6
@@ -154,7 +154,7 @@ class Patron:
         rebuild = False
         buildpath = './build/' + theme
         buildfile = buildpath + '/patron_inner.png'
-        img = Image.new('RGBA', (7*Triangle.WIDTH, 2*Triangle.HEIGHT), (255, 255, 255, 0))
+        img = Image.new('RGBA', (int(7*Triangle.WIDTH), int(2*Triangle.HEIGHT)), (255, 255, 255, 0))
         if triangles_regenerated or not os.path.isfile(buildfile):
             for i in range(12):
                 t = OrientedTriangle(i + 1, OrientedTriangle.NORMAL)
@@ -168,7 +168,7 @@ class Patron:
                 imgtri = Image.open(buildpath + '/triangle' + t.nb_str() + '.png')
                 if (i+1) & 1 == 0:
                     imgtri = imgtri.rotate(180, Image.BICUBIC, 1)
-                img.paste(imgtri, (int(round(Triangle.WIDTH/2*i)), Triangle.HEIGHT), imgtri)
+                img.paste(imgtri, (int(round(Triangle.WIDTH/2*i)), int(Triangle.HEIGHT)), imgtri)
             img.save(buildfile)
             rebuild = True
 
