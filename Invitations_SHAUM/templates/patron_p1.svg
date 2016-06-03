@@ -24,8 +24,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="800"
+     inkscape:window-width="636"
+     inkscape:window-height="761"
      id="namedview4345"
      showgrid="false"
      units="mm"
@@ -33,7 +33,7 @@
      inkscape:cx="5641.6257"
      inkscape:cy="2900"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="18"
      inkscape:window-maximized="0"
      inkscape:current-layer="g3876"
      inkscape:snap-bbox="true"
@@ -106,7 +106,7 @@
        id="rect4656"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <g
-       transform="matrix(0.84825671,0,0,0.84825671,5.7363422,-1942.9349)"
+       transform="matrix(0.84825671,0,0,0.84825671,-8.638946,-1915.1857)"
        id="text4245"
        style="font-size:1500px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#aad400;fill-opacity:1;stroke:none;font-family:sans-serif">
       <path
@@ -156,7 +156,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(0.84825671,0,0,0.84825671,-222.73822,-1942.9349)"
+       transform="matrix(0.84825671,0,0,0.84825671,-305.33361,-1839.1115)"
        id="text4668"
        style="font-size:312.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#677821;fill-opacity:1;stroke:none;font-family:Andika;-inkscape-font-specification:Andika">
       <path
@@ -185,7 +185,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(0.77515627,0,0,0.63213061,42.201849,-1316.0262)"
+       transform="matrix(0.77515627,0,0,0.63213061,39.01043,-1311.8774)"
        style="font-size:577.59014893px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#aad400;fill-opacity:1;stroke:none;font-family:Linux Biolinum;-inkscape-font-specification:Linux Biolinum"
        id="text3399">
       <path
@@ -227,7 +227,7 @@
     </g>
     <g
        id="g3876"
-       transform="matrix(1.5,0,0,1.5,2323.4922,343.30501)">
+       transform="matrix(1.5,0,0,1.5,2303.122,272.90797)">
       <image
          sodipodi:absref="/home/loderunner/GIT/HAUM/flexagones/Invitations_SHAUM/templates/face2-1.png"
          xlink:href="face2-1.png"
@@ -307,8 +307,8 @@
          width="800"
          transform="scale(-1,-1)" />
       <image
-         sodipodi:absref="/home/loderunner/GIT/HAUM/flexagones/Invitations_SHAUM/templates/face4-2.png"
-         xlink:href="face4-2.png"
+         sodipodi:absref="/home/loderunner/GIT/HAUM/flexagones/Invitations_SHAUM/templates/face4-3.png"
+         xlink:href="face4-3.png"
          y="-613.69666"
          x="397.9187"
          id="image3796"
@@ -316,8 +316,8 @@
          height="800"
          width="800" />
       <image
-         sodipodi:absref="/home/loderunner/GIT/HAUM/flexagones/Invitations_SHAUM/templates/face4-0.png"
-         xlink:href="face4-0.png"
+         sodipodi:absref="/home/loderunner/GIT/HAUM/flexagones/Invitations_SHAUM/templates/face4-1.png"
+         xlink:href="face4-1.png"
          y="-1413.6967"
          x="397.9187"
          id="image3807"
@@ -325,8 +325,8 @@
          height="800"
          width="800" />
       <image
-         sodipodi:absref="/home/loderunner/GIT/HAUM/flexagones/Invitations_SHAUM/templates/face4-3.png"
-         xlink:href="face4-3.png"
+         sodipodi:absref="/home/loderunner/GIT/HAUM/flexagones/Invitations_SHAUM/templates/face4-2.png"
+         xlink:href="face4-2.png"
          y="-2213.6965"
          x="2797.9187"
          id="image3818"
@@ -334,8 +334,8 @@
          height="800"
          width="800" />
       <image
-         sodipodi:absref="/home/loderunner/GIT/HAUM/flexagones/Invitations_SHAUM/templates/face4-1.png"
-         xlink:href="face4-1.png"
+         sodipodi:absref="/home/loderunner/GIT/HAUM/flexagones/Invitations_SHAUM/templates/face4-0.png"
+         xlink:href="face4-0.png"
          y="-3013.6965"
          x="2797.9187"
          id="image3829"
@@ -348,21 +348,21 @@
        id="rect3043"
        width="4792.4878"
        height="4792.4878"
-       x="2924.1262"
-       y="-4173.4839" />
+       x="2903.7561"
+       y="-4243.8809" />
     <rect
        style="color:#000000;fill:none;stroke:#000000;stroke-width:7.50034142;stroke-linejoin:miter;stroke-miterlimit:4.5999999;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3043-7"
        width="2392.4998"
        height="2392.4995"
-       x="4124.1201"
-       y="580.99011"
+       x="4103.75"
+       y="651.38715"
        transform="scale(1,-1)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3074"
        style="font-size:150px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold Italic"
-       transform="translate(585.3548,-5286.4288)"><flowRegion
+       transform="translate(507.0693,-5186.4288)"><flowRegion
          id="flowRegion3076"><rect
            id="rect3078"
            width="589.61896"
