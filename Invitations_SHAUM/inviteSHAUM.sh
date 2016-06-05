@@ -1,7 +1,7 @@
 #!/bin/sh
 
 THEME=$1
-[ "$THEME" == "" ] && THEME=simple
+[ "$THEME" == "" ] && THEME=Shaum
 
 mkdir -p build/$THEME
 for i in 1 2 3 4 5 6
